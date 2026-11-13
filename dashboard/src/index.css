@@ -1,0 +1,127 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Instrument';
+  src: local('Instrument Serif'), local('InstrumentSerif-Regular');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@theme {
+  /* Light palette — warm editorial paper */
+  --color-paper: #FAF7F2;
+  --color-paper-alt: #F2EDE5;
+  --color-ink: #1A1A1A;
+  --color-ink-soft: #5A5A5A;
+  --color-ink-muted: #9A9590;
+  --color-rule: #DDD7CC;
+  --color-accent: #0052D4;
+  --color-accent-soft: #0052D420;
+  --color-signal-up: #0A8754;
+  --color-signal-up-soft: #0A875415;
+  --color-signal-down: #C62828;
+  --color-signal-down-soft: #C6282815;
+  --color-highlight: #FFE082;
+  --color-card: #FFFFFF;
+  --color-card-border: #E8E2D9;
+  --color-nav-active: #0052D4;
+  --color-code-bg: #F0EBE3;
+  --color-tooltip-bg: #1A1A1A;
+  --color-tooltip-text: #FAF7F2;
+  --color-purple: #6B4CE6;
+  --color-purple-soft: #6B4CE615;
+
+  --font-serif: 'Instrument Serif', 'Georgia', 'Times New Roman', serif;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, 'Cascadia Code', monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+body.light {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+}
+
+body.dark {
+  --color-paper: #0F0F13;
+  --color-paper-alt: #18181F;
+  --color-ink: #E8E4DD;
+  --color-ink-soft: #A8A4A0;
+  --color-ink-muted: #6A6660;
+  --color-rule: #2A2A30;
+  --color-accent: #5B9DF5;
+  --color-accent-soft: #5B9DF520;
+  --color-signal-up: #4ADE80;
+  --color-signal-up-soft: #4ADE8015;
+  --color-signal-down: #F87171;
+  --color-signal-down-soft: #F8717115;
+  --color-highlight: #92400E;
+  --color-card: #1A1A22;
+  --color-card-border: #2A2A35;
+  --color-nav-active: #5B9DF5;
+  --color-code-bg: #1E1E28;
+  --color-tooltip-bg: #FAF7F2;
+  --color-tooltip-text: #1A1A1A;
+  --color-purple: #A78BFA;
+  --color-purple-soft: #A78BFA20;
+
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--color-rule); border-radius: 2px; }
+
+/* Tour overrides */
+.__floater.__floater__open {
+  filter: none !important;
+}
+.react-joyride__tooltip {
+  font-family: var(--font-sans) !important;
+  border-radius: 12px !important;
+}
+
+/* Noise texture overlay */
+.noise::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  opacity: 0.025;
+  pointer-events: none;
+  z-index: 9999;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* Number counter animation */
+@keyframes countUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.count-in {
+  animation: countUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Underline draw animation for links */
+.draw-underline {
+  background-image: linear-gradient(var(--color-accent), var(--color-accent));
+  background-size: 0% 1.5px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.draw-underline:hover {
+  background-size: 100% 1.5px;
+}

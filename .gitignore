@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/raw/
+dashboard/public/data/
+.env
+*.pyc
+__pycache__/
+.DS_Store

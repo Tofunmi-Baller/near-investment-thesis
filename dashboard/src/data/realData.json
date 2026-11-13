@@ -1,0 +1,3462 @@
+{
+  "realNetworkGrowth": [
+    {
+      "date": "2026-05-16",
+      "dailyActiveAccounts": 111501,
+      "newAccounts": 15705,
+      "contractDeploys": 1,
+      "txCount": 722169
+    },
+    {
+      "date": "2026-05-17",
+      "dailyActiveAccounts": 115963,
+      "newAccounts": 15698,
+      "contractDeploys": 5,
+      "txCount": 726935
+    },
+    {
+      "date": "2026-05-18",
+      "dailyActiveAccounts": 118091,
+      "newAccounts": 17980,
+      "contractDeploys": 10,
+      "txCount": 787300
+    },
+    {
+      "date": "2026-05-19",
+      "dailyActiveAccounts": 118559,
+      "newAccounts": 16699,
+      "contractDeploys": 68,
+      "txCount": 779071
+    },
+    {
+      "date": "2026-05-20",
+      "dailyActiveAccounts": 119992,
+      "newAccounts": 16954,
+      "contractDeploys": 13,
+      "txCount": 817159
+    },
+    {
+      "date": "2026-05-21",
+      "dailyActiveAccounts": 116316,
+      "newAccounts": 17135,
+      "contractDeploys": 6,
+      "txCount": 836842
+    },
+    {
+      "date": "2026-05-22",
+      "dailyActiveAccounts": 125196,
+      "newAccounts": 19309,
+      "contractDeploys": 12,
+      "txCount": 1109094
+    },
+    {
+      "date": "2026-05-23",
+      "dailyActiveAccounts": 122630,
+      "newAccounts": 18152,
+      "contractDeploys": 0,
+      "txCount": 879647
+    },
+    {
+      "date": "2026-05-24",
+      "dailyActiveAccounts": 122760,
+      "newAccounts": 18368,
+      "contractDeploys": 0,
+      "txCount": 898928
+    },
+    {
+      "date": "2026-05-25",
+      "dailyActiveAccounts": 126133,
+      "newAccounts": 18753,
+      "contractDeploys": 14,
+      "txCount": 898740
+    },
+    {
+      "date": "2026-05-26",
+      "dailyActiveAccounts": 124386,
+      "newAccounts": 18222,
+      "contractDeploys": 11,
+      "txCount": 957320
+    },
+    {
+      "date": "2026-05-27",
+      "dailyActiveAccounts": 118211,
+      "newAccounts": 15963,
+      "contractDeploys": 15,
+      "txCount": 831632
+    },
+    {
+      "date": "2026-05-28",
+      "dailyActiveAccounts": 115174,
+      "newAccounts": 18548,
+      "contractDeploys": 9,
+      "txCount": 825571
+    },
+    {
+      "date": "2026-05-29",
+      "dailyActiveAccounts": 115762,
+      "newAccounts": 18104,
+      "contractDeploys": 9,
+      "txCount": 864412
+    },
+    {
+      "date": "2026-05-30",
+      "dailyActiveAccounts": 112655,
+      "newAccounts": 15807,
+      "contractDeploys": 2,
+      "txCount": 776204
+    },
+    {
+      "date": "2026-05-31",
+      "dailyActiveAccounts": 113585,
+      "newAccounts": 14916,
+      "contractDeploys": 4,
+      "txCount": 761360
+    },
+    {
+      "date": "2026-06-01",
+      "dailyActiveAccounts": 117957,
+      "newAccounts": 16138,
+      "contractDeploys": 3,
+      "txCount": 882995
+    },
+    {
+      "date": "2026-06-02",
+      "dailyActiveAccounts": 118358,
+      "newAccounts": 18378,
+      "contractDeploys": 7,
+      "txCount": 971904
+    },
+    {
+      "date": "2026-06-03",
+      "dailyActiveAccounts": 121069,
+      "newAccounts": 17478,
+      "contractDeploys": 5,
+      "txCount": 987134
+    },
+    {
+      "date": "2026-06-04",
+      "dailyActiveAccounts": 118953,
+      "newAccounts": 16930,
+      "contractDeploys": 12,
+      "txCount": 1020616
+    },
+    {
+      "date": "2026-06-05",
+      "dailyActiveAccounts": 115801,
+      "newAccounts": 16224,
+      "contractDeploys": 4,
+      "txCount": 1055518
+    },
+    {
+      "date": "2026-06-06",
+      "dailyActiveAccounts": 111304,
+      "newAccounts": 14689,
+      "contractDeploys": 3,
+      "txCount": 830379
+    },
+    {
+      "date": "2026-06-07",
+      "dailyActiveAccounts": 111870,
+      "newAccounts": 14862,
+      "contractDeploys": 1,
+      "txCount": 845410
+    },
+    {
+      "date": "2026-06-08",
+      "dailyActiveAccounts": 123836,
+      "newAccounts": 16746,
+      "contractDeploys": 3,
+      "txCount": 876622
+    },
+    {
+      "date": "2026-06-09",
+      "dailyActiveAccounts": 112294,
+      "newAccounts": 16442,
+      "contractDeploys": 5,
+      "txCount": 804550
+    },
+    {
+      "date": "2026-06-10",
+      "dailyActiveAccounts": 114609,
+      "newAccounts": 13617,
+      "contractDeploys": 4,
+      "txCount": 804245
+    },
+    {
+      "date": "2026-06-11",
+      "dailyActiveAccounts": 112200,
+      "newAccounts": 15814,
+      "contractDeploys": 4,
+      "txCount": 804656
+    },
+    {
+      "date": "2026-06-12",
+      "dailyActiveAccounts": 111915,
+      "newAccounts": 16287,
+      "contractDeploys": 25,
+      "txCount": 789334
+    },
+    {
+      "date": "2026-06-13",
+      "dailyActiveAccounts": 110134,
+      "newAccounts": 16383,
+      "contractDeploys": 25,
+      "txCount": 734123
+    },
+    {
+      "date": "2026-06-14",
+      "dailyActiveAccounts": 110032,
+      "newAccounts": 17396,
+      "contractDeploys": 14,
+      "txCount": 756764
+    },
+    {
+      "date": "2026-06-15",
+      "dailyActiveAccounts": 117898,
+      "newAccounts": 18921,
+      "contractDeploys": 3,
+      "txCount": 851039
+    },
+    {
+      "date": "2026-06-16",
+      "dailyActiveAccounts": 114118,
+      "newAccounts": 18810,
+      "contractDeploys": 11,
+      "txCount": 804245
+    },
+    {
+      "date": "2026-06-17",
+      "dailyActiveAccounts": 115824,
+      "newAccounts": 18322,
+      "contractDeploys": 6,
+      "txCount": 823188
+    },
+    {
+      "date": "2026-06-18",
+      "dailyActiveAccounts": 111472,
+      "newAccounts": 17483,
+      "contractDeploys": 4,
+      "txCount": 801660
+    },
+    {
+      "date": "2026-06-19",
+      "dailyActiveAccounts": 110263,
+      "newAccounts": 16612,
+      "contractDeploys": 10,
+      "txCount": 812658
+    },
+    {
+      "date": "2026-06-20",
+      "dailyActiveAccounts": 106396,
+      "newAccounts": 15659,
+      "contractDeploys": 3,
+      "txCount": 719919
+    },
+    {
+      "date": "2026-06-21",
+      "dailyActiveAccounts": 109135,
+      "newAccounts": 16294,
+      "contractDeploys": 1,
+      "txCount": 722402
+    },
+    {
+      "date": "2026-06-22",
+      "dailyActiveAccounts": 112032,
+      "newAccounts": 17585,
+      "contractDeploys": 8,
+      "txCount": 757253
+    },
+    {
+      "date": "2026-06-23",
+      "dailyActiveAccounts": 112986,
+      "newAccounts": 18392,
+      "contractDeploys": 5,
+      "txCount": 757769
+    },
+    {
+      "date": "2026-06-24",
+      "dailyActiveAccounts": 110260,
+      "newAccounts": 17853,
+      "contractDeploys": 11,
+      "txCount": 768173
+    },
+    {
+      "date": "2026-06-25",
+      "dailyActiveAccounts": 109728,
+      "newAccounts": 17988,
+      "contractDeploys": 14,
+      "txCount": 743096
+    },
+    {
+      "date": "2026-06-26",
+      "dailyActiveAccounts": 106389,
+      "newAccounts": 16243,
+      "contractDeploys": 9,
+      "txCount": 736132
+    },
+    {
+      "date": "2026-06-27",
+      "dailyActiveAccounts": 106056,
+      "newAccounts": 16043,
+      "contractDeploys": 4,
+      "txCount": 697852
+    },
+    {
+      "date": "2026-06-28",
+      "dailyActiveAccounts": 105934,
+      "newAccounts": 16157,
+      "contractDeploys": 2,
+      "txCount": 711388
+    },
+    {
+      "date": "2026-06-29",
+      "dailyActiveAccounts": 108811,
+      "newAccounts": 17148,
+      "contractDeploys": 7,
+      "txCount": 796983
+    },
+    {
+      "date": "2026-06-30",
+      "dailyActiveAccounts": 107730,
+      "newAccounts": 17286,
+      "contractDeploys": 13,
+      "txCount": 747039
+    },
+    {
+      "date": "2026-07-01",
+      "dailyActiveAccounts": 104101,
+      "newAccounts": 16005,
+      "contractDeploys": 7,
+      "txCount": 720865
+    },
+    {
+      "date": "2026-07-02",
+      "dailyActiveAccounts": 105844,
+      "newAccounts": 14989,
+      "contractDeploys": 6,
+      "txCount": 747871
+    },
+    {
+      "date": "2026-07-03",
+      "dailyActiveAccounts": 104465,
+      "newAccounts": 17423,
+      "contractDeploys": 10,
+      "txCount": 739047
+    },
+    {
+      "date": "2026-07-04",
+      "dailyActiveAccounts": 103825,
+      "newAccounts": 21466,
+      "contractDeploys": 2,
+      "txCount": 753757
+    },
+    {
+      "date": "2026-07-05",
+      "dailyActiveAccounts": 106184,
+      "newAccounts": 18197,
+      "contractDeploys": 4,
+      "txCount": 737968
+    },
+    {
+      "date": "2026-07-06",
+      "dailyActiveAccounts": 106771,
+      "newAccounts": 19860,
+      "contractDeploys": 1,
+      "txCount": 796655
+    },
+    {
+      "date": "2026-07-07",
+      "dailyActiveAccounts": 105153,
+      "newAccounts": 22958,
+      "contractDeploys": 1,
+      "txCount": 819335
+    },
+    {
+      "date": "2026-07-08",
+      "dailyActiveAccounts": 105152,
+      "newAccounts": 23420,
+      "contractDeploys": 7,
+      "txCount": 873695
+    },
+    {
+      "date": "2026-07-09",
+      "dailyActiveAccounts": 102571,
+      "newAccounts": 19227,
+      "contractDeploys": 10,
+      "txCount": 823411
+    },
+    {
+      "date": "2026-07-10",
+      "dailyActiveAccounts": 102400,
+      "newAccounts": 14203,
+      "contractDeploys": 6,
+      "txCount": 770836
+    },
+    {
+      "date": "2026-07-11",
+      "dailyActiveAccounts": 90183,
+      "newAccounts": 10788,
+      "contractDeploys": 2,
+      "txCount": 715477
+    },
+    {
+      "date": "2026-07-12",
+      "dailyActiveAccounts": 89871,
+      "newAccounts": 10540,
+      "contractDeploys": 6,
+      "txCount": 694076
+    },
+    {
+      "date": "2026-07-13",
+      "dailyActiveAccounts": 91883,
+      "newAccounts": 10319,
+      "contractDeploys": 3,
+      "txCount": 794924
+    },
+    {
+      "date": "2026-07-14",
+      "dailyActiveAccounts": 92405,
+      "newAccounts": 9945,
+      "contractDeploys": 8,
+      "txCount": 757867
+    },
+    {
+      "date": "2026-07-15",
+      "dailyActiveAccounts": 90939,
+      "newAccounts": 9897,
+      "contractDeploys": 7,
+      "txCount": 725079
+    },
+    {
+      "date": "2026-07-16",
+      "dailyActiveAccounts": 89017,
+      "newAccounts": 10642,
+      "contractDeploys": 2,
+      "txCount": 724947
+    },
+    {
+      "date": "2026-07-17",
+      "dailyActiveAccounts": 88616,
+      "newAccounts": 10528,
+      "contractDeploys": 13,
+      "txCount": 711903
+    },
+    {
+      "date": "2026-07-18",
+      "dailyActiveAccounts": 87019,
+      "newAccounts": 8365,
+      "contractDeploys": 3,
+      "txCount": 672538
+    },
+    {
+      "date": "2026-07-19",
+      "dailyActiveAccounts": 85909,
+      "newAccounts": 8802,
+      "contractDeploys": 2,
+      "txCount": 664256
+    },
+    {
+      "date": "2026-07-20",
+      "dailyActiveAccounts": 88674,
+      "newAccounts": 10700,
+      "contractDeploys": 6,
+      "txCount": 754988
+    },
+    {
+      "date": "2026-07-21",
+      "dailyActiveAccounts": 89928,
+      "newAccounts": 10650,
+      "contractDeploys": 14,
+      "txCount": 737854
+    },
+    {
+      "date": "2026-07-22",
+      "dailyActiveAccounts": 89683,
+      "newAccounts": 12322,
+      "contractDeploys": 11,
+      "txCount": 718549
+    },
+    {
+      "date": "2026-07-23",
+      "dailyActiveAccounts": 88801,
+      "newAccounts": 11596,
+      "contractDeploys": 9,
+      "txCount": 732946
+    },
+    {
+      "date": "2026-07-24",
+      "dailyActiveAccounts": 85291,
+      "newAccounts": 14397,
+      "contractDeploys": 10,
+      "txCount": 712611
+    },
+    {
+      "date": "2026-07-25",
+      "dailyActiveAccounts": 86103,
+      "newAccounts": 15345,
+      "contractDeploys": 18,
+      "txCount": 718997
+    },
+    {
+      "date": "2026-07-26",
+      "dailyActiveAccounts": 85718,
+      "newAccounts": 14217,
+      "contractDeploys": 4,
+      "txCount": 706844
+    },
+    {
+      "date": "2026-07-27",
+      "dailyActiveAccounts": 87128,
+      "newAccounts": 14453,
+      "contractDeploys": 9,
+      "txCount": 698017
+    },
+    {
+      "date": "2026-07-28",
+      "dailyActiveAccounts": 86405,
+      "newAccounts": 13989,
+      "contractDeploys": 8,
+      "txCount": 703205
+    },
+    {
+      "date": "2026-07-29",
+      "dailyActiveAccounts": 86375,
+      "newAccounts": 14377,
+      "contractDeploys": 3,
+      "txCount": 705004
+    },
+    {
+      "date": "2026-07-30",
+      "dailyActiveAccounts": 85469,
+      "newAccounts": 14978,
+      "contractDeploys": 21,
+      "txCount": 733277
+    },
+    {
+      "date": "2026-07-31",
+      "dailyActiveAccounts": 82072,
+      "newAccounts": 14029,
+      "contractDeploys": 11,
+      "txCount": 708126
+    },
+    {
+      "date": "2026-08-01",
+      "dailyActiveAccounts": 82192,
+      "newAccounts": 12877,
+      "contractDeploys": 1,
+      "txCount": 681793
+    },
+    {
+      "date": "2026-08-02",
+      "dailyActiveAccounts": 81729,
+      "newAccounts": 13066,
+      "contractDeploys": 3,
+      "txCount": 671128
+    },
+    {
+      "date": "2026-08-03",
+      "dailyActiveAccounts": 85195,
+      "newAccounts": 13582,
+      "contractDeploys": 5,
+      "txCount": 690732
+    },
+    {
+      "date": "2026-08-04",
+      "dailyActiveAccounts": 85551,
+      "newAccounts": 13880,
+      "contractDeploys": 5,
+      "txCount": 696617
+    },
+    {
+      "date": "2026-08-05",
+      "dailyActiveAccounts": 84061,
+      "newAccounts": 14136,
+      "contractDeploys": 7,
+      "txCount": 671609
+    },
+    {
+      "date": "2026-08-06",
+      "dailyActiveAccounts": 84184,
+      "newAccounts": 13251,
+      "contractDeploys": 3,
+      "txCount": 675341
+    },
+    {
+      "date": "2026-08-07",
+      "dailyActiveAccounts": 82269,
+      "newAccounts": 12992,
+      "contractDeploys": 3,
+      "txCount": 656089
+    },
+    {
+      "date": "2026-08-08",
+      "dailyActiveAccounts": 78514,
+      "newAccounts": 14633,
+      "contractDeploys": 0,
+      "txCount": 656235
+    },
+    {
+      "date": "2026-08-09",
+      "dailyActiveAccounts": 80418,
+      "newAccounts": 12740,
+      "contractDeploys": 2,
+      "txCount": 637854
+    },
+    {
+      "date": "2026-08-10",
+      "dailyActiveAccounts": 82610,
+      "newAccounts": 12708,
+      "contractDeploys": 6,
+      "txCount": 672018
+    },
+    {
+      "date": "2026-08-11",
+      "dailyActiveAccounts": 82799,
+      "newAccounts": 12511,
+      "contractDeploys": 14,
+      "txCount": 660154
+    },
+    {
+      "date": "2026-08-12",
+      "dailyActiveAccounts": 82166,
+      "newAccounts": 11986,
+      "contractDeploys": 4,
+      "txCount": 685406
+    },
+    {
+      "date": "2026-08-13",
+      "dailyActiveAccounts": 82572,
+      "newAccounts": 11282,
+      "contractDeploys": 2,
+      "txCount": 664804
+    },
+    {
+      "date": "2026-08-14",
+      "dailyActiveAccounts": 79800,
+      "newAccounts": 11236,
+      "contractDeploys": 3,
+      "txCount": 639732
+    },
+    {
+      "date": "2026-08-15",
+      "dailyActiveAccounts": 79812,
+      "newAccounts": 10918,
+      "contractDeploys": 0,
+      "txCount": 584733
+    },
+    {
+      "date": "2026-08-16",
+      "dailyActiveAccounts": 80163,
+      "newAccounts": 11785,
+      "contractDeploys": 5,
+      "txCount": 615151
+    },
+    {
+      "date": "2026-08-17",
+      "dailyActiveAccounts": 80576,
+      "newAccounts": 11881,
+      "contractDeploys": 3,
+      "txCount": 669250
+    },
+    {
+      "date": "2026-08-18",
+      "dailyActiveAccounts": 80055,
+      "newAccounts": 12501,
+      "contractDeploys": 12,
+      "txCount": 673834
+    },
+    {
+      "date": "2026-08-19",
+      "dailyActiveAccounts": 80931,
+      "newAccounts": 13077,
+      "contractDeploys": 11,
+      "txCount": 733400
+    },
+    {
+      "date": "2026-08-20",
+      "dailyActiveAccounts": 82216,
+      "newAccounts": 13829,
+      "contractDeploys": 10,
+      "txCount": 758797
+    },
+    {
+      "date": "2026-08-21",
+      "dailyActiveAccounts": 81667,
+      "newAccounts": 14315,
+      "contractDeploys": 5,
+      "txCount": 786077
+    },
+    {
+      "date": "2026-08-22",
+      "dailyActiveAccounts": 79636,
+      "newAccounts": 12974,
+      "contractDeploys": 4,
+      "txCount": 804701
+    },
+    {
+      "date": "2026-08-23",
+      "dailyActiveAccounts": 79394,
+      "newAccounts": 12413,
+      "contractDeploys": 1,
+      "txCount": 726225
+    },
+    {
+      "date": "2026-08-24",
+      "dailyActiveAccounts": 81373,
+      "newAccounts": 13352,
+      "contractDeploys": 9,
+      "txCount": 805717
+    },
+    {
+      "date": "2026-08-25",
+      "dailyActiveAccounts": 79464,
+      "newAccounts": 12793,
+      "contractDeploys": 12,
+      "txCount": 719568
+    },
+    {
+      "date": "2026-08-26",
+      "dailyActiveAccounts": 81506,
+      "newAccounts": 12080,
+      "contractDeploys": 3,
+      "txCount": 655345
+    },
+    {
+      "date": "2026-08-27",
+      "dailyActiveAccounts": 81525,
+      "newAccounts": 12037,
+      "contractDeploys": 13,
+      "txCount": 681264
+    },
+    {
+      "date": "2026-08-28",
+      "dailyActiveAccounts": 78375,
+      "newAccounts": 10425,
+      "contractDeploys": 9,
+      "txCount": 654889
+    },
+    {
+      "date": "2026-08-29",
+      "dailyActiveAccounts": 76934,
+      "newAccounts": 9661,
+      "contractDeploys": 3,
+      "txCount": 594141
+    },
+    {
+      "date": "2026-08-30",
+      "dailyActiveAccounts": 76955,
+      "newAccounts": 9946,
+      "contractDeploys": 4,
+      "txCount": 623892
+    },
+    {
+      "date": "2026-08-31",
+      "dailyActiveAccounts": 77790,
+      "newAccounts": 11236,
+      "contractDeploys": 7,
+      "txCount": 684883
+    },
+    {
+      "date": "2026-09-01",
+      "dailyActiveAccounts": 77130,
+      "newAccounts": 10628,
+      "contractDeploys": 5,
+      "txCount": 670529
+    },
+    {
+      "date": "2026-09-02",
+      "dailyActiveAccounts": 77127,
+      "newAccounts": 11252,
+      "contractDeploys": 5,
+      "txCount": 659622
+    },
+    {
+      "date": "2026-09-03",
+      "dailyActiveAccounts": 77607,
+      "newAccounts": 11213,
+      "contractDeploys": 7,
+      "txCount": 703698
+    },
+    {
+      "date": "2026-09-04",
+      "dailyActiveAccounts": 76042,
+      "newAccounts": 10886,
+      "contractDeploys": 6,
+      "txCount": 735463
+    },
+    {
+      "date": "2026-09-05",
+      "dailyActiveAccounts": 74288,
+      "newAccounts": 11910,
+      "contractDeploys": 1,
+      "txCount": 674162
+    },
+    {
+      "date": "2026-09-06",
+      "dailyActiveAccounts": 74652,
+      "newAccounts": 11690,
+      "contractDeploys": 7,
+      "txCount": 763172
+    },
+    {
+      "date": "2026-09-07",
+      "dailyActiveAccounts": 75711,
+      "newAccounts": 10873,
+      "contractDeploys": 12,
+      "txCount": 746044
+    },
+    {
+      "date": "2026-09-08",
+      "dailyActiveAccounts": 71768,
+      "newAccounts": 11637,
+      "contractDeploys": 17,
+      "txCount": 704254
+    },
+    {
+      "date": "2026-09-09",
+      "dailyActiveAccounts": 71964,
+      "newAccounts": 11339,
+      "contractDeploys": 8,
+      "txCount": 772841
+    },
+    {
+      "date": "2026-09-10",
+      "dailyActiveAccounts": 71159,
+      "newAccounts": 10482,
+      "contractDeploys": 5,
+      "txCount": 728736
+    },
+    {
+      "date": "2026-09-11",
+      "dailyActiveAccounts": 70014,
+      "newAccounts": 12598,
+      "contractDeploys": 4,
+      "txCount": 846582
+    },
+    {
+      "date": "2026-09-12",
+      "dailyActiveAccounts": 67170,
+      "newAccounts": 11203,
+      "contractDeploys": 0,
+      "txCount": 651970
+    },
+    {
+      "date": "2026-09-13",
+      "dailyActiveAccounts": 61501,
+      "newAccounts": 11659,
+      "contractDeploys": 1,
+      "txCount": 626447
+    },
+    {
+      "date": "2026-09-14",
+      "dailyActiveAccounts": 49972,
+      "newAccounts": 9579,
+      "contractDeploys": 12,
+      "txCount": 706600
+    },
+    {
+      "date": "2026-09-15",
+      "dailyActiveAccounts": 45247,
+      "newAccounts": 8116,
+      "contractDeploys": 5,
+      "txCount": 706597
+    },
+    {
+      "date": "2026-09-16",
+      "dailyActiveAccounts": 42517,
+      "newAccounts": 7772,
+      "contractDeploys": 3,
+      "txCount": 777089
+    },
+    {
+      "date": "2026-09-17",
+      "dailyActiveAccounts": 44749,
+      "newAccounts": 9142,
+      "contractDeploys": 5,
+      "txCount": 840314
+    },
+    {
+      "date": "2026-09-18",
+      "dailyActiveAccounts": 62965,
+      "newAccounts": 14050,
+      "contractDeploys": 14,
+      "txCount": 973388
+    },
+    {
+      "date": "2026-09-19",
+      "dailyActiveAccounts": 52391,
+      "newAccounts": 14636,
+      "contractDeploys": 4,
+      "txCount": 839380
+    },
+    {
+      "date": "2026-09-20",
+      "dailyActiveAccounts": 57466,
+      "newAccounts": 12868,
+      "contractDeploys": 2,
+      "txCount": 846013
+    },
+    {
+      "date": "2026-09-21",
+      "dailyActiveAccounts": 60298,
+      "newAccounts": 12642,
+      "contractDeploys": 22,
+      "txCount": 871723
+    },
+    {
+      "date": "2026-09-22",
+      "dailyActiveAccounts": 57797,
+      "newAccounts": 13413,
+      "contractDeploys": 46,
+      "txCount": 971959
+    },
+    {
+      "date": "2026-09-23",
+      "dailyActiveAccounts": 56105,
+      "newAccounts": 13620,
+      "contractDeploys": 65,
+      "txCount": 869892
+    },
+    {
+      "date": "2026-09-24",
+      "dailyActiveAccounts": 54027,
+      "newAccounts": 11472,
+      "contractDeploys": 32,
+      "txCount": 741291
+    },
+    {
+      "date": "2026-09-25",
+      "dailyActiveAccounts": 57300,
+      "newAccounts": 12945,
+      "contractDeploys": 36,
+      "txCount": 715469
+    },
+    {
+      "date": "2026-09-26",
+      "dailyActiveAccounts": 54118,
+      "newAccounts": 11843,
+      "contractDeploys": 34,
+      "txCount": 603143
+    },
+    {
+      "date": "2026-09-27",
+      "dailyActiveAccounts": 63589,
+      "newAccounts": 22366,
+      "contractDeploys": 73,
+      "txCount": 1217209
+    },
+    {
+      "date": "2026-09-28",
+      "dailyActiveAccounts": 61771,
+      "newAccounts": 20830,
+      "contractDeploys": 101,
+      "txCount": 1129793
+    },
+    {
+      "date": "2026-09-29",
+      "dailyActiveAccounts": 62990,
+      "newAccounts": 15557,
+      "contractDeploys": 122,
+      "txCount": 987627
+    },
+    {
+      "date": "2026-09-30",
+      "dailyActiveAccounts": 58749,
+      "newAccounts": 13575,
+      "contractDeploys": 80,
+      "txCount": 923526
+    },
+    {
+      "date": "2026-10-01",
+      "dailyActiveAccounts": 62105,
+      "newAccounts": 15070,
+      "contractDeploys": 69,
+      "txCount": 1151492
+    },
+    {
+      "date": "2026-10-02",
+      "dailyActiveAccounts": 118077,
+      "newAccounts": 9601,
+      "contractDeploys": 29,
+      "txCount": 868026
+    },
+    {
+      "date": "2026-10-03",
+      "dailyActiveAccounts": 176719,
+      "newAccounts": 8148,
+      "contractDeploys": 19,
+      "txCount": 690438
+    },
+    {
+      "date": "2026-10-04",
+      "dailyActiveAccounts": 177196,
+      "newAccounts": 9186,
+      "contractDeploys": 16,
+      "txCount": 839450
+    },
+    {
+      "date": "2026-10-05",
+      "dailyActiveAccounts": 95992,
+      "newAccounts": 8914,
+      "contractDeploys": 32,
+      "txCount": 865681
+    },
+    {
+      "date": "2026-10-06",
+      "dailyActiveAccounts": 124809,
+      "newAccounts": 8773,
+      "contractDeploys": 37,
+      "txCount": 909765
+    },
+    {
+      "date": "2026-10-07",
+      "dailyActiveAccounts": 175774,
+      "newAccounts": 8461,
+      "contractDeploys": 24,
+      "txCount": 971068
+    },
+    {
+      "date": "2026-10-08",
+      "dailyActiveAccounts": 82447,
+      "newAccounts": 11123,
+      "contractDeploys": 25,
+      "txCount": 1014850
+    },
+    {
+      "date": "2026-10-09",
+      "dailyActiveAccounts": 53950,
+      "newAccounts": 7367,
+      "contractDeploys": 21,
+      "txCount": 680332
+    },
+    {
+      "date": "2026-10-10",
+      "dailyActiveAccounts": 56881,
+      "newAccounts": 7637,
+      "contractDeploys": 79,
+      "txCount": 850344
+    },
+    {
+      "date": "2026-10-11",
+      "dailyActiveAccounts": 54865,
+      "newAccounts": 7635,
+      "contractDeploys": 92,
+      "txCount": 1109584
+    },
+    {
+      "date": "2026-10-12",
+      "dailyActiveAccounts": 59164,
+      "newAccounts": 10039,
+      "contractDeploys": 22,
+      "txCount": 712621
+    },
+    {
+      "date": "2026-10-13",
+      "dailyActiveAccounts": 55685,
+      "newAccounts": 8196,
+      "contractDeploys": 31,
+      "txCount": 731054
+    },
+    {
+      "date": "2026-10-14",
+      "dailyActiveAccounts": 58615,
+      "newAccounts": 10350,
+      "contractDeploys": 33,
+      "txCount": 767812
+    },
+    {
+      "date": "2026-10-15",
+      "dailyActiveAccounts": 55503,
+      "newAccounts": 8440,
+      "contractDeploys": 19,
+      "txCount": 911980
+    },
+    {
+      "date": "2026-10-16",
+      "dailyActiveAccounts": 54936,
+      "newAccounts": 8974,
+      "contractDeploys": 23,
+      "txCount": 658427
+    },
+    {
+      "date": "2026-10-17",
+      "dailyActiveAccounts": 54322,
+      "newAccounts": 9034,
+      "contractDeploys": 33,
+      "txCount": 557903
+    },
+    {
+      "date": "2026-10-18",
+      "dailyActiveAccounts": 51810,
+      "newAccounts": 7742,
+      "contractDeploys": 17,
+      "txCount": 569735
+    },
+    {
+      "date": "2026-10-19",
+      "dailyActiveAccounts": 53107,
+      "newAccounts": 8331,
+      "contractDeploys": 37,
+      "txCount": 607019
+    },
+    {
+      "date": "2026-10-20",
+      "dailyActiveAccounts": 52116,
+      "newAccounts": 11474,
+      "contractDeploys": 15,
+      "txCount": 617990
+    },
+    {
+      "date": "2026-10-21",
+      "dailyActiveAccounts": 53919,
+      "newAccounts": 8320,
+      "contractDeploys": 30,
+      "txCount": 658784
+    },
+    {
+      "date": "2026-10-22",
+      "dailyActiveAccounts": 51423,
+      "newAccounts": 11236,
+      "contractDeploys": 65,
+      "txCount": 547267
+    },
+    {
+      "date": "2026-10-23",
+      "dailyActiveAccounts": 51214,
+      "newAccounts": 8490,
+      "contractDeploys": 32,
+      "txCount": 609236
+    },
+    {
+      "date": "2026-10-24",
+      "dailyActiveAccounts": 50178,
+      "newAccounts": 7337,
+      "contractDeploys": 38,
+      "txCount": 635438
+    },
+    {
+      "date": "2026-10-25",
+      "dailyActiveAccounts": 49245,
+      "newAccounts": 9180,
+      "contractDeploys": 30,
+      "txCount": 550250
+    },
+    {
+      "date": "2026-10-26",
+      "dailyActiveAccounts": 49601,
+      "newAccounts": 5794,
+      "contractDeploys": 30,
+      "txCount": 573801
+    },
+    {
+      "date": "2026-10-27",
+      "dailyActiveAccounts": 61855,
+      "newAccounts": 9440,
+      "contractDeploys": 49,
+      "txCount": 604320
+    },
+    {
+      "date": "2026-10-28",
+      "dailyActiveAccounts": 49273,
+      "newAccounts": 9236,
+      "contractDeploys": 65,
+      "txCount": 520096
+    },
+    {
+      "date": "2026-10-29",
+      "dailyActiveAccounts": 49292,
+      "newAccounts": 6112,
+      "contractDeploys": 72,
+      "txCount": 649103
+    },
+    {
+      "date": "2026-10-30",
+      "dailyActiveAccounts": 47349,
+      "newAccounts": 17871,
+      "contractDeploys": 36,
+      "txCount": 691420
+    },
+    {
+      "date": "2026-10-31",
+      "dailyActiveAccounts": 46019,
+      "newAccounts": 17100,
+      "contractDeploys": 31,
+      "txCount": 502649
+    },
+    {
+      "date": "2026-11-01",
+      "dailyActiveAccounts": 46478,
+      "newAccounts": 14317,
+      "contractDeploys": 29,
+      "txCount": 509345
+    },
+    {
+      "date": "2026-11-02",
+      "dailyActiveAccounts": 48060,
+      "newAccounts": 12718,
+      "contractDeploys": 36,
+      "txCount": 522358
+    },
+    {
+      "date": "2026-11-03",
+      "dailyActiveAccounts": 72343,
+      "newAccounts": 8510,
+      "contractDeploys": 41,
+      "txCount": 597189
+    },
+    {
+      "date": "2026-11-04",
+      "dailyActiveAccounts": 79164,
+      "newAccounts": 12874,
+      "contractDeploys": 46,
+      "txCount": 706690
+    },
+    {
+      "date": "2026-11-05",
+      "dailyActiveAccounts": 78560,
+      "newAccounts": 9988,
+      "contractDeploys": 42,
+      "txCount": 848794
+    },
+    {
+      "date": "2026-11-06",
+      "dailyActiveAccounts": 78574,
+      "newAccounts": 6242,
+      "contractDeploys": 53,
+      "txCount": 717484
+    },
+    {
+      "date": "2026-11-07",
+      "dailyActiveAccounts": 77076,
+      "newAccounts": 5226,
+      "contractDeploys": 49,
+      "txCount": 682432
+    },
+    {
+      "date": "2026-11-08",
+      "dailyActiveAccounts": 79184,
+      "newAccounts": 5018,
+      "contractDeploys": 37,
+      "txCount": 609504
+    },
+    {
+      "date": "2026-11-09",
+      "dailyActiveAccounts": 77752,
+      "newAccounts": 11970,
+      "contractDeploys": 65,
+      "txCount": 895302
+    },
+    {
+      "date": "2026-11-10",
+      "dailyActiveAccounts": 177510,
+      "newAccounts": 8343,
+      "contractDeploys": 69,
+      "txCount": 970505
+    },
+    {
+      "date": "2026-11-11",
+      "dailyActiveAccounts": 77831,
+      "newAccounts": 7087,
+      "contractDeploys": 64,
+      "txCount": 891297
+    }
+  ],
+  "realTxVolume": [
+    {
+      "date": "2026-05-16",
+      "volume": 13694605.10372237,
+      "swapCount": 722169,
+      "uniqueUsers": 111501
+    },
+    {
+      "date": "2026-05-17",
+      "volume": 11334599.38778596,
+      "swapCount": 726935,
+      "uniqueUsers": 115963
+    },
+    {
+      "date": "2026-05-18",
+      "volume": 26525802.13962441,
+      "swapCount": 787300,
+      "uniqueUsers": 118091
+    },
+    {
+      "date": "2026-05-19",
+      "volume": 47857461.09706083,
+      "swapCount": 779071,
+      "uniqueUsers": 118559
+    },
+    {
+      "date": "2026-05-20",
+      "volume": 43152158.78246551,
+      "swapCount": 817159,
+      "uniqueUsers": 119992
+    },
+    {
+      "date": "2026-05-21",
+      "volume": 70948713.72613977,
+      "swapCount": 836842,
+      "uniqueUsers": 116316
+    },
+    {
+      "date": "2026-05-22",
+      "volume": 175027617.7511039,
+      "swapCount": 1109094,
+      "uniqueUsers": 125196
+    },
+    {
+      "date": "2026-05-23",
+      "volume": 172598187.14910176,
+      "swapCount": 879647,
+      "uniqueUsers": 122630
+    },
+    {
+      "date": "2026-05-24",
+      "volume": 132826230.51421955,
+      "swapCount": 898928,
+      "uniqueUsers": 122760
+    },
+    {
+      "date": "2026-05-25",
+      "volume": 165834804.82432553,
+      "swapCount": 898740,
+      "uniqueUsers": 126133
+    },
+    {
+      "date": "2026-05-26",
+      "volume": 451725820.839752,
+      "swapCount": 957320,
+      "uniqueUsers": 124386
+    },
+    {
+      "date": "2026-05-27",
+      "volume": 214037097.6235945,
+      "swapCount": 831632,
+      "uniqueUsers": 118211
+    },
+    {
+      "date": "2026-05-28",
+      "volume": 140577838.0117362,
+      "swapCount": 825571,
+      "uniqueUsers": 115174
+    },
+    {
+      "date": "2026-05-29",
+      "volume": 143165909.83651423,
+      "swapCount": 864412,
+      "uniqueUsers": 115762
+    },
+    {
+      "date": "2026-05-30",
+      "volume": 55410613.1521111,
+      "swapCount": 776204,
+      "uniqueUsers": 112655
+    },
+    {
+      "date": "2026-05-31",
+      "volume": 46357444.00409341,
+      "swapCount": 761360,
+      "uniqueUsers": 113585
+    },
+    {
+      "date": "2026-06-01",
+      "volume": 157050358.0267475,
+      "swapCount": 882995,
+      "uniqueUsers": 117957
+    },
+    {
+      "date": "2026-06-02",
+      "volume": 154299857.59391055,
+      "swapCount": 971904,
+      "uniqueUsers": 118358
+    },
+    {
+      "date": "2026-06-03",
+      "volume": 172156339.74122047,
+      "swapCount": 987134,
+      "uniqueUsers": 121069
+    },
+    {
+      "date": "2026-06-04",
+      "volume": 289481221.80315626,
+      "swapCount": 1020616,
+      "uniqueUsers": 118953
+    },
+    {
+      "date": "2026-06-05",
+      "volume": 336435454.8356679,
+      "swapCount": 1055518,
+      "uniqueUsers": 115801
+    },
+    {
+      "date": "2026-06-06",
+      "volume": 60604795.68075264,
+      "swapCount": 830379,
+      "uniqueUsers": 111304
+    },
+    {
+      "date": "2026-06-07",
+      "volume": 91600534.6752747,
+      "swapCount": 845410,
+      "uniqueUsers": 111870
+    },
+    {
+      "date": "2026-06-08",
+      "volume": 88600873.39198247,
+      "swapCount": 876622,
+      "uniqueUsers": 123836
+    },
+    {
+      "date": "2026-06-09",
+      "volume": 56110687.11366608,
+      "swapCount": 804550,
+      "uniqueUsers": 112294
+    },
+    {
+      "date": "2026-06-10",
+      "volume": 104770146.58052374,
+      "swapCount": 804245,
+      "uniqueUsers": 114609
+    },
+    {
+      "date": "2026-06-11",
+      "volume": 75396049.02747616,
+      "swapCount": 804656,
+      "uniqueUsers": 112200
+    },
+    {
+      "date": "2026-06-12",
+      "volume": 90338229.65254523,
+      "swapCount": 789334,
+      "uniqueUsers": 111915
+    },
+    {
+      "date": "2026-06-13",
+      "volume": 33785042.12017289,
+      "swapCount": 734123,
+      "uniqueUsers": 110134
+    },
+    {
+      "date": "2026-06-14",
+      "volume": 31059540.61410037,
+      "swapCount": 756764,
+      "uniqueUsers": 110032
+    },
+    {
+      "date": "2026-06-15",
+      "volume": 78867523.44623066,
+      "swapCount": 851039,
+      "uniqueUsers": 117898
+    },
+    {
+      "date": "2026-06-16",
+      "volume": 111369532.15878262,
+      "swapCount": 804245,
+      "uniqueUsers": 114118
+    },
+    {
+      "date": "2026-06-17",
+      "volume": 60230187.78346601,
+      "swapCount": 823188,
+      "uniqueUsers": 115824
+    },
+    {
+      "date": "2026-06-18",
+      "volume": 66476967.95730673,
+      "swapCount": 801660,
+      "uniqueUsers": 111472
+    },
+    {
+      "date": "2026-06-19",
+      "volume": 68462917.31489713,
+      "swapCount": 812658,
+      "uniqueUsers": 110263
+    },
+    {
+      "date": "2026-06-20",
+      "volume": 28737950.51129336,
+      "swapCount": 719919,
+      "uniqueUsers": 106396
+    },
+    {
+      "date": "2026-06-21",
+      "volume": 26669452.55193758,
+      "swapCount": 722402,
+      "uniqueUsers": 109135
+    },
+    {
+      "date": "2026-06-22",
+      "volume": 29755012.25202908,
+      "swapCount": 757253,
+      "uniqueUsers": 112032
+    },
+    {
+      "date": "2026-06-23",
+      "volume": 51951162.49512914,
+      "swapCount": 757769,
+      "uniqueUsers": 112986
+    },
+    {
+      "date": "2026-06-24",
+      "volume": 34539322.59571857,
+      "swapCount": 768173,
+      "uniqueUsers": 110260
+    },
+    {
+      "date": "2026-06-25",
+      "volume": 86826719.48038106,
+      "swapCount": 743096,
+      "uniqueUsers": 109728
+    },
+    {
+      "date": "2026-06-26",
+      "volume": 74772936.20494609,
+      "swapCount": 736132,
+      "uniqueUsers": 106389
+    },
+    {
+      "date": "2026-06-27",
+      "volume": 24894090.41421241,
+      "swapCount": 697852,
+      "uniqueUsers": 106056
+    },
+    {
+      "date": "2026-06-28",
+      "volume": 25942399.25282982,
+      "swapCount": 711388,
+      "uniqueUsers": 105934
+    },
+    {
+      "date": "2026-06-29",
+      "volume": 44881115.36890112,
+      "swapCount": 796983,
+      "uniqueUsers": 108811
+    },
+    {
+      "date": "2026-06-30",
+      "volume": 133839199.24412946,
+      "swapCount": 747039,
+      "uniqueUsers": 107730
+    },
+    {
+      "date": "2026-07-01",
+      "volume": 49717178.98884,
+      "swapCount": 720865,
+      "uniqueUsers": 104101
+    },
+    {
+      "date": "2026-07-02",
+      "volume": 36509819.38994433,
+      "swapCount": 747871,
+      "uniqueUsers": 105844
+    },
+    {
+      "date": "2026-07-03",
+      "volume": 47714918.00730963,
+      "swapCount": 739047,
+      "uniqueUsers": 104465
+    },
+    {
+      "date": "2026-07-04",
+      "volume": 36098140.50263796,
+      "swapCount": 753757,
+      "uniqueUsers": 103825
+    },
+    {
+      "date": "2026-07-05",
+      "volume": 18504678.58106395,
+      "swapCount": 737968,
+      "uniqueUsers": 106184
+    },
+    {
+      "date": "2026-07-06",
+      "volume": 51967569.38111738,
+      "swapCount": 796655,
+      "uniqueUsers": 106771
+    },
+    {
+      "date": "2026-07-07",
+      "volume": 32344743.04650966,
+      "swapCount": 819335,
+      "uniqueUsers": 105153
+    },
+    {
+      "date": "2026-07-08",
+      "volume": 38768780.34888314,
+      "swapCount": 873695,
+      "uniqueUsers": 105152
+    },
+    {
+      "date": "2026-07-09",
+      "volume": 24836150.77551828,
+      "swapCount": 823411,
+      "uniqueUsers": 102571
+    },
+    {
+      "date": "2026-07-10",
+      "volume": 30837690.34042277,
+      "swapCount": 770836,
+      "uniqueUsers": 102400
+    },
+    {
+      "date": "2026-07-11",
+      "volume": 20972939.47085654,
+      "swapCount": 715477,
+      "uniqueUsers": 90183
+    },
+    {
+      "date": "2026-07-12",
+      "volume": 14573768.4465245,
+      "swapCount": 694076,
+      "uniqueUsers": 89871
+    },
+    {
+      "date": "2026-07-13",
+      "volume": 20337841.19000191,
+      "swapCount": 794924,
+      "uniqueUsers": 91883
+    },
+    {
+      "date": "2026-07-14",
+      "volume": 27777782.0417914,
+      "swapCount": 757867,
+      "uniqueUsers": 92405
+    },
+    {
+      "date": "2026-07-15",
+      "volume": 34814197.6427244,
+      "swapCount": 725079,
+      "uniqueUsers": 90939
+    },
+    {
+      "date": "2026-07-16",
+      "volume": 37785481.784294,
+      "swapCount": 724947,
+      "uniqueUsers": 89017
+    },
+    {
+      "date": "2026-07-17",
+      "volume": 17194299.04600123,
+      "swapCount": 711903,
+      "uniqueUsers": 88616
+    },
+    {
+      "date": "2026-07-18",
+      "volume": 10573058.02624577,
+      "swapCount": 672538,
+      "uniqueUsers": 87019
+    },
+    {
+      "date": "2026-07-19",
+      "volume": 15409224.80614885,
+      "swapCount": 664256,
+      "uniqueUsers": 85909
+    },
+    {
+      "date": "2026-07-20",
+      "volume": 25329726.22693106,
+      "swapCount": 754988,
+      "uniqueUsers": 88674
+    },
+    {
+      "date": "2026-07-21",
+      "volume": 56651603.57489336,
+      "swapCount": 737854,
+      "uniqueUsers": 89928
+    },
+    {
+      "date": "2026-07-22",
+      "volume": 48446504.56929314,
+      "swapCount": 718549,
+      "uniqueUsers": 89683
+    },
+    {
+      "date": "2026-07-23",
+      "volume": 22546476.93225666,
+      "swapCount": 732946,
+      "uniqueUsers": 88801
+    },
+    {
+      "date": "2026-07-24",
+      "volume": 24328025.88416722,
+      "swapCount": 712611,
+      "uniqueUsers": 85291
+    },
+    {
+      "date": "2026-07-25",
+      "volume": 11319395.54630179,
+      "swapCount": 718997,
+      "uniqueUsers": 86103
+    },
+    {
+      "date": "2026-07-26",
+      "volume": 45568869.01654745,
+      "swapCount": 706844,
+      "uniqueUsers": 85718
+    },
+    {
+      "date": "2026-07-27",
+      "volume": 85592369.63576834,
+      "swapCount": 698017,
+      "uniqueUsers": 87128
+    },
+    {
+      "date": "2026-07-28",
+      "volume": 68546083.44834131,
+      "swapCount": 703205,
+      "uniqueUsers": 86405
+    },
+    {
+      "date": "2026-07-29",
+      "volume": 38205574.17437728,
+      "swapCount": 705004,
+      "uniqueUsers": 86375
+    },
+    {
+      "date": "2026-07-30",
+      "volume": 45012456.42287019,
+      "swapCount": 733277,
+      "uniqueUsers": 85469
+    },
+    {
+      "date": "2026-07-31",
+      "volume": 119849743.87481804,
+      "swapCount": 708126,
+      "uniqueUsers": 82072
+    },
+    {
+      "date": "2026-08-01",
+      "volume": 55951247.78649255,
+      "swapCount": 681793,
+      "uniqueUsers": 82192
+    },
+    {
+      "date": "2026-08-02",
+      "volume": 17966058.01296671,
+      "swapCount": 671128,
+      "uniqueUsers": 81729
+    },
+    {
+      "date": "2026-08-03",
+      "volume": 26811848.32692798,
+      "swapCount": 690732,
+      "uniqueUsers": 85195
+    },
+    {
+      "date": "2026-08-04",
+      "volume": 22694368.56374318,
+      "swapCount": 696617,
+      "uniqueUsers": 85551
+    },
+    {
+      "date": "2026-08-05",
+      "volume": 17017991.36395235,
+      "swapCount": 671609,
+      "uniqueUsers": 84061
+    },
+    {
+      "date": "2026-08-06",
+      "volume": 35019759.40575772,
+      "swapCount": 675341,
+      "uniqueUsers": 84184
+    },
+    {
+      "date": "2026-08-07",
+      "volume": 64861037.54257535,
+      "swapCount": 656089,
+      "uniqueUsers": 82269
+    },
+    {
+      "date": "2026-08-08",
+      "volume": 13677386.54088704,
+      "swapCount": 656235,
+      "uniqueUsers": 78514
+    },
+    {
+      "date": "2026-08-09",
+      "volume": 15359482.86924927,
+      "swapCount": 637854,
+      "uniqueUsers": 80418
+    },
+    {
+      "date": "2026-08-10",
+      "volume": 58811645.50683376,
+      "swapCount": 672018,
+      "uniqueUsers": 82610
+    },
+    {
+      "date": "2026-08-11",
+      "volume": 29347543.94405644,
+      "swapCount": 660154,
+      "uniqueUsers": 82799
+    },
+    {
+      "date": "2026-08-12",
+      "volume": 23072382.04153197,
+      "swapCount": 685406,
+      "uniqueUsers": 82166
+    },
+    {
+      "date": "2026-08-13",
+      "volume": 14645170.66595775,
+      "swapCount": 664804,
+      "uniqueUsers": 82572
+    },
+    {
+      "date": "2026-08-14",
+      "volume": 21701529.36143886,
+      "swapCount": 639732,
+      "uniqueUsers": 79800
+    },
+    {
+      "date": "2026-08-15",
+      "volume": 6914783.9124365,
+      "swapCount": 584733,
+      "uniqueUsers": 79812
+    },
+    {
+      "date": "2026-08-16",
+      "volume": 5841560.21806965,
+      "swapCount": 615151,
+      "uniqueUsers": 80163
+    },
+    {
+      "date": "2026-08-17",
+      "volume": 25131738.21458048,
+      "swapCount": 669250,
+      "uniqueUsers": 80576
+    },
+    {
+      "date": "2026-08-18",
+      "volume": 56423147.30239217,
+      "swapCount": 673834,
+      "uniqueUsers": 80055
+    },
+    {
+      "date": "2026-08-19",
+      "volume": 76763228.6099878,
+      "swapCount": 733400,
+      "uniqueUsers": 80931
+    },
+    {
+      "date": "2026-08-20",
+      "volume": 57886811.86386828,
+      "swapCount": 758797,
+      "uniqueUsers": 82216
+    },
+    {
+      "date": "2026-08-21",
+      "volume": 51311649.51783548,
+      "swapCount": 786077,
+      "uniqueUsers": 81667
+    },
+    {
+      "date": "2026-08-22",
+      "volume": 90673058.1155053,
+      "swapCount": 804701,
+      "uniqueUsers": 79636
+    },
+    {
+      "date": "2026-08-23",
+      "volume": 31351993.09376087,
+      "swapCount": 726225,
+      "uniqueUsers": 79394
+    },
+    {
+      "date": "2026-08-24",
+      "volume": 71448863.63350359,
+      "swapCount": 805717,
+      "uniqueUsers": 81373
+    },
+    {
+      "date": "2026-08-25",
+      "volume": 53813399.90705896,
+      "swapCount": 719568,
+      "uniqueUsers": 79464
+    },
+    {
+      "date": "2026-08-26",
+      "volume": 35956822.98556697,
+      "swapCount": 655345,
+      "uniqueUsers": 81506
+    },
+    {
+      "date": "2026-08-27",
+      "volume": 46224538.69688518,
+      "swapCount": 681264,
+      "uniqueUsers": 81525
+    },
+    {
+      "date": "2026-08-28",
+      "volume": 44229813.70152303,
+      "swapCount": 654889,
+      "uniqueUsers": 78375
+    },
+    {
+      "date": "2026-08-29",
+      "volume": 19008060.78635973,
+      "swapCount": 594141,
+      "uniqueUsers": 76934
+    },
+    {
+      "date": "2026-08-30",
+      "volume": 27899918.99188881,
+      "swapCount": 623892,
+      "uniqueUsers": 76955
+    },
+    {
+      "date": "2026-08-31",
+      "volume": 43727059.29622948,
+      "swapCount": 684883,
+      "uniqueUsers": 77790
+    },
+    {
+      "date": "2026-09-01",
+      "volume": 75529586.38491653,
+      "swapCount": 670529,
+      "uniqueUsers": 77130
+    },
+    {
+      "date": "2026-09-02",
+      "volume": 70833241.68314368,
+      "swapCount": 659622,
+      "uniqueUsers": 77127
+    },
+    {
+      "date": "2026-09-03",
+      "volume": 38930548.48824262,
+      "swapCount": 703698,
+      "uniqueUsers": 77607
+    },
+    {
+      "date": "2026-09-04",
+      "volume": 43614981.36379496,
+      "swapCount": 735463,
+      "uniqueUsers": 76042
+    },
+    {
+      "date": "2026-09-05",
+      "volume": 40523636.58483223,
+      "swapCount": 674162,
+      "uniqueUsers": 74288
+    },
+    {
+      "date": "2026-09-06",
+      "volume": 59649398.19979758,
+      "swapCount": 763172,
+      "uniqueUsers": 74652
+    },
+    {
+      "date": "2026-09-07",
+      "volume": 94066849.88901033,
+      "swapCount": 746044,
+      "uniqueUsers": 75711
+    },
+    {
+      "date": "2026-09-08",
+      "volume": 88156988.84884056,
+      "swapCount": 704254,
+      "uniqueUsers": 71768
+    },
+    {
+      "date": "2026-09-09",
+      "volume": 322813094.7740125,
+      "swapCount": 772841,
+      "uniqueUsers": 71964
+    },
+    {
+      "date": "2026-09-10",
+      "volume": 321736988.4142352,
+      "swapCount": 728736,
+      "uniqueUsers": 71159
+    },
+    {
+      "date": "2026-09-11",
+      "volume": 135486781.4692242,
+      "swapCount": 846582,
+      "uniqueUsers": 70014
+    },
+    {
+      "date": "2026-09-12",
+      "volume": 47436609.76801098,
+      "swapCount": 651970,
+      "uniqueUsers": 67170
+    },
+    {
+      "date": "2026-09-13",
+      "volume": 35474335.96595394,
+      "swapCount": 626447,
+      "uniqueUsers": 61501
+    },
+    {
+      "date": "2026-09-14",
+      "volume": 128218294.18113698,
+      "swapCount": 706600,
+      "uniqueUsers": 49972
+    },
+    {
+      "date": "2026-09-15",
+      "volume": 60836342.05818694,
+      "swapCount": 706597,
+      "uniqueUsers": 45247
+    },
+    {
+      "date": "2026-09-16",
+      "volume": 124827502.53038634,
+      "swapCount": 777089,
+      "uniqueUsers": 42517
+    },
+    {
+      "date": "2026-09-17",
+      "volume": 197782682.72726867,
+      "swapCount": 840314,
+      "uniqueUsers": 44749
+    },
+    {
+      "date": "2026-09-18",
+      "volume": 536953179.691589,
+      "swapCount": 973388,
+      "uniqueUsers": 62965
+    },
+    {
+      "date": "2026-09-19",
+      "volume": 236156737.65339208,
+      "swapCount": 839380,
+      "uniqueUsers": 52391
+    },
+    {
+      "date": "2026-09-20",
+      "volume": 223894452.1398005,
+      "swapCount": 846013,
+      "uniqueUsers": 57466
+    },
+    {
+      "date": "2026-09-21",
+      "volume": 551996821.7620267,
+      "swapCount": 871723,
+      "uniqueUsers": 60298
+    },
+    {
+      "date": "2026-09-22",
+      "volume": 509579241.5328236,
+      "swapCount": 971959,
+      "uniqueUsers": 57797
+    },
+    {
+      "date": "2026-09-23",
+      "volume": 419763097.9550802,
+      "swapCount": 869892,
+      "uniqueUsers": 56105
+    },
+    {
+      "date": "2026-09-24",
+      "volume": 474200089.5316575,
+      "swapCount": 741291,
+      "uniqueUsers": 54027
+    },
+    {
+      "date": "2026-09-25",
+      "volume": 366002758.30799943,
+      "swapCount": 715469,
+      "uniqueUsers": 57300
+    },
+    {
+      "date": "2026-09-26",
+      "volume": 169416936.650252,
+      "swapCount": 603143,
+      "uniqueUsers": 54118
+    },
+    {
+      "date": "2026-09-27",
+      "volume": 254944916.56416973,
+      "swapCount": 1217209,
+      "uniqueUsers": 63589
+    },
+    {
+      "date": "2026-09-28",
+      "volume": 476658065.3308351,
+      "swapCount": 1129793,
+      "uniqueUsers": 61771
+    },
+    {
+      "date": "2026-09-29",
+      "volume": 297783553.0736994,
+      "swapCount": 987627,
+      "uniqueUsers": 62990
+    },
+    {
+      "date": "2026-09-30",
+      "volume": 576368934.6945409,
+      "swapCount": 923526,
+      "uniqueUsers": 58749
+    },
+    {
+      "date": "2026-10-01",
+      "volume": 538269927.5412754,
+      "swapCount": 1151492,
+      "uniqueUsers": 62105
+    },
+    {
+      "date": "2026-10-02",
+      "volume": 316130869.87265617,
+      "swapCount": 868026,
+      "uniqueUsers": 118077
+    },
+    {
+      "date": "2026-10-03",
+      "volume": 102901577.75691083,
+      "swapCount": 690438,
+      "uniqueUsers": 176719
+    },
+    {
+      "date": "2026-10-04",
+      "volume": 281447534.74736756,
+      "swapCount": 839450,
+      "uniqueUsers": 177196
+    },
+    {
+      "date": "2026-10-05",
+      "volume": 136687457.49244076,
+      "swapCount": 865681,
+      "uniqueUsers": 95992
+    },
+    {
+      "date": "2026-10-06",
+      "volume": 444255065.7957243,
+      "swapCount": 909765,
+      "uniqueUsers": 124809
+    },
+    {
+      "date": "2026-10-07",
+      "volume": 284500008.2341266,
+      "swapCount": 971068,
+      "uniqueUsers": 175774
+    },
+    {
+      "date": "2026-10-08",
+      "volume": 701654465.4930086,
+      "swapCount": 1014850,
+      "uniqueUsers": 82447
+    },
+    {
+      "date": "2026-10-09",
+      "volume": 232024107.4609725,
+      "swapCount": 680332,
+      "uniqueUsers": 53950
+    },
+    {
+      "date": "2026-10-10",
+      "volume": 145348457.60435963,
+      "swapCount": 850344,
+      "uniqueUsers": 56881
+    },
+    {
+      "date": "2026-10-11",
+      "volume": 132213342.1892887,
+      "swapCount": 1109584,
+      "uniqueUsers": 54865
+    },
+    {
+      "date": "2026-10-12",
+      "volume": 327841223.23382944,
+      "swapCount": 712621,
+      "uniqueUsers": 59164
+    },
+    {
+      "date": "2026-10-13",
+      "volume": 900557269.3347949,
+      "swapCount": 731054,
+      "uniqueUsers": 55685
+    },
+    {
+      "date": "2026-10-14",
+      "volume": 349114253.6551747,
+      "swapCount": 767812,
+      "uniqueUsers": 58615
+    },
+    {
+      "date": "2026-10-15",
+      "volume": 219990610.47882688,
+      "swapCount": 911980,
+      "uniqueUsers": 55503
+    },
+    {
+      "date": "2026-10-16",
+      "volume": 328819266.912275,
+      "swapCount": 658427,
+      "uniqueUsers": 54936
+    },
+    {
+      "date": "2026-10-17",
+      "volume": 99725253.44228539,
+      "swapCount": 557903,
+      "uniqueUsers": 54322
+    },
+    {
+      "date": "2026-10-18",
+      "volume": 119385718.11417617,
+      "swapCount": 569735,
+      "uniqueUsers": 51810
+    },
+    {
+      "date": "2026-10-19",
+      "volume": 270749897.6932527,
+      "swapCount": 607019,
+      "uniqueUsers": 53107
+    },
+    {
+      "date": "2026-10-20",
+      "volume": 264357165.60015562,
+      "swapCount": 617990,
+      "uniqueUsers": 52116
+    },
+    {
+      "date": "2026-10-21",
+      "volume": 255512327.7624999,
+      "swapCount": 658784,
+      "uniqueUsers": 53919
+    },
+    {
+      "date": "2026-10-22",
+      "volume": 173530169.45368588,
+      "swapCount": 547267,
+      "uniqueUsers": 51423
+    },
+    {
+      "date": "2026-10-23",
+      "volume": 173435483.59447026,
+      "swapCount": 609236,
+      "uniqueUsers": 51214
+    },
+    {
+      "date": "2026-10-24",
+      "volume": 146820984.66751567,
+      "swapCount": 635438,
+      "uniqueUsers": 50178
+    },
+    {
+      "date": "2026-10-25",
+      "volume": 67683442.67208211,
+      "swapCount": 550250,
+      "uniqueUsers": 49245
+    },
+    {
+      "date": "2026-10-26",
+      "volume": 147845766.9836605,
+      "swapCount": 573801,
+      "uniqueUsers": 49601
+    },
+    {
+      "date": "2026-10-27",
+      "volume": 122719233.25767133,
+      "swapCount": 604320,
+      "uniqueUsers": 61855
+    },
+    {
+      "date": "2026-10-28",
+      "volume": 97118830.00420702,
+      "swapCount": 520096,
+      "uniqueUsers": 49273
+    },
+    {
+      "date": "2026-10-29",
+      "volume": 336911888.6546743,
+      "swapCount": 649103,
+      "uniqueUsers": 49292
+    },
+    {
+      "date": "2026-10-30",
+      "volume": 169329549.52471888,
+      "swapCount": 691420,
+      "uniqueUsers": 47349
+    },
+    {
+      "date": "2026-10-31",
+      "volume": 122317405.82903379,
+      "swapCount": 502649,
+      "uniqueUsers": 46019
+    },
+    {
+      "date": "2026-11-01",
+      "volume": 84023883.00266796,
+      "swapCount": 509345,
+      "uniqueUsers": 46478
+    },
+    {
+      "date": "2026-11-02",
+      "volume": 254141460.4429962,
+      "swapCount": 522358,
+      "uniqueUsers": 48060
+    },
+    {
+      "date": "2026-11-03",
+      "volume": 114716359.68875962,
+      "swapCount": 597189,
+      "uniqueUsers": 72343
+    },
+    {
+      "date": "2026-11-04",
+      "volume": 172420508.35053423,
+      "swapCount": 706690,
+      "uniqueUsers": 79164
+    },
+    {
+      "date": "2026-11-05",
+      "volume": 135240009.68304744,
+      "swapCount": 848794,
+      "uniqueUsers": 78560
+    },
+    {
+      "date": "2026-11-06",
+      "volume": 75164445.71317026,
+      "swapCount": 717484,
+      "uniqueUsers": 78574
+    },
+    {
+      "date": "2026-11-07",
+      "volume": 81161468.47066295,
+      "swapCount": 682432,
+      "uniqueUsers": 77076
+    },
+    {
+      "date": "2026-11-08",
+      "volume": 39525776.71115057,
+      "swapCount": 609504,
+      "uniqueUsers": 79184
+    },
+    {
+      "date": "2026-11-09",
+      "volume": 91831142.12068428,
+      "swapCount": 895302,
+      "uniqueUsers": 77752
+    },
+    {
+      "date": "2026-11-10",
+      "volume": 181321028.42911375,
+      "swapCount": 970505,
+      "uniqueUsers": 177510
+    },
+    {
+      "date": "2026-11-11",
+      "volume": 114744659.06422782,
+      "swapCount": 891297,
+      "uniqueUsers": 77831
+    }
+  ],
+  "realFeeData": [
+    {
+      "date": "2026-05-16",
+      "totalFeeUsd": 1169.00262389,
+      "avgFeeUsd": 0.001618738306255184,
+      "txCount": 722169
+    },
+    {
+      "date": "2026-05-17",
+      "totalFeeUsd": 1105.23145871,
+      "avgFeeUsd": 0.0015203992911470765,
+      "txCount": 726935
+    },
+    {
+      "date": "2026-05-18",
+      "totalFeeUsd": 1264.71525692,
+      "avgFeeUsd": 0.0016063956013209705,
+      "txCount": 787300
+    },
+    {
+      "date": "2026-05-19",
+      "totalFeeUsd": 1359.06538538,
+      "avgFeeUsd": 0.0017444692272976404,
+      "txCount": 779071
+    },
+    {
+      "date": "2026-05-20",
+      "totalFeeUsd": 1359.2132638,
+      "avgFeeUsd": 0.0016633400155906012,
+      "txCount": 817159
+    },
+    {
+      "date": "2026-05-21",
+      "totalFeeUsd": 1577.38176211,
+      "avgFeeUsd": 0.0018849218396184704,
+      "txCount": 836842
+    },
+    {
+      "date": "2026-05-22",
+      "totalFeeUsd": 2243.73028393,
+      "avgFeeUsd": 0.0020230298639520184,
+      "txCount": 1109094
+    },
+    {
+      "date": "2026-05-23",
+      "totalFeeUsd": 2147.38348361,
+      "avgFeeUsd": 0.0024411877532805773,
+      "txCount": 879647
+    },
+    {
+      "date": "2026-05-24",
+      "totalFeeUsd": 2380.19489984,
+      "avgFeeUsd": 0.0026478148415000975,
+      "txCount": 898928
+    },
+    {
+      "date": "2026-05-25",
+      "totalFeeUsd": 2389.32490483,
+      "avgFeeUsd": 0.0026585273881545276,
+      "txCount": 898740
+    },
+    {
+      "date": "2026-05-26",
+      "totalFeeUsd": 2991.55755944,
+      "avgFeeUsd": 0.0031249295527514312,
+      "txCount": 957320
+    },
+    {
+      "date": "2026-05-27",
+      "totalFeeUsd": 2515.2041141,
+      "avgFeeUsd": 0.003024419591958943,
+      "txCount": 831632
+    },
+    {
+      "date": "2026-05-28",
+      "totalFeeUsd": 2441.48672634,
+      "avgFeeUsd": 0.002957331018579868,
+      "txCount": 825571
+    },
+    {
+      "date": "2026-05-29",
+      "totalFeeUsd": 2446.97225154,
+      "avgFeeUsd": 0.002830793940320125,
+      "txCount": 864412
+    },
+    {
+      "date": "2026-05-30",
+      "totalFeeUsd": 2063.52894537,
+      "avgFeeUsd": 0.0026584879044297635,
+      "txCount": 776204
+    },
+    {
+      "date": "2026-05-31",
+      "totalFeeUsd": 1859.78493042,
+      "avgFeeUsd": 0.0024427142618734894,
+      "txCount": 761360
+    },
+    {
+      "date": "2026-06-01",
+      "totalFeeUsd": 2373.11881659,
+      "avgFeeUsd": 0.002687578997151739,
+      "txCount": 882995
+    },
+    {
+      "date": "2026-06-02",
+      "totalFeeUsd": 3083.5022991,
+      "avgFeeUsd": 0.0031726408154509086,
+      "txCount": 971904
+    },
+    {
+      "date": "2026-06-03",
+      "totalFeeUsd": 3165.3083602,
+      "avgFeeUsd": 0.0032065640127885374,
+      "txCount": 987134
+    },
+    {
+      "date": "2026-06-04",
+      "totalFeeUsd": 3732.72078739,
+      "avgFeeUsd": 0.003657321448409588,
+      "txCount": 1020616
+    },
+    {
+      "date": "2026-06-05",
+      "totalFeeUsd": 2804.73596848,
+      "avgFeeUsd": 0.002657212826763731,
+      "txCount": 1055518
+    },
+    {
+      "date": "2026-06-06",
+      "totalFeeUsd": 1851.44121519,
+      "avgFeeUsd": 0.0022296339565306927,
+      "txCount": 830379
+    },
+    {
+      "date": "2026-06-07",
+      "totalFeeUsd": 1715.56991536,
+      "avgFeeUsd": 0.002029275635916301,
+      "txCount": 845410
+    },
+    {
+      "date": "2026-06-08",
+      "totalFeeUsd": 2010.90242691,
+      "avgFeeUsd": 0.002293921926337692,
+      "txCount": 876622
+    },
+    {
+      "date": "2026-06-09",
+      "totalFeeUsd": 1991.85265944,
+      "avgFeeUsd": 0.002475735081026661,
+      "txCount": 804550
+    },
+    {
+      "date": "2026-06-10",
+      "totalFeeUsd": 1986.28849173,
+      "avgFeeUsd": 0.0024697554746750056,
+      "txCount": 804245
+    },
+    {
+      "date": "2026-06-11",
+      "totalFeeUsd": 1835.753649,
+      "avgFeeUsd": 0.0022814142304289037,
+      "txCount": 804656
+    },
+    {
+      "date": "2026-06-12",
+      "totalFeeUsd": 1843.61695097,
+      "avgFeeUsd": 0.002335661394251356,
+      "txCount": 789334
+    },
+    {
+      "date": "2026-06-13",
+      "totalFeeUsd": 1595.80546677,
+      "avgFeeUsd": 0.002173757622046987,
+      "txCount": 734123
+    },
+    {
+      "date": "2026-06-14",
+      "totalFeeUsd": 1711.72146333,
+      "avgFeeUsd": 0.0022618959983958012,
+      "txCount": 756764
+    },
+    {
+      "date": "2026-06-15",
+      "totalFeeUsd": 2132.45014492,
+      "avgFeeUsd": 0.0025057020241375546,
+      "txCount": 851039
+    },
+    {
+      "date": "2026-06-16",
+      "totalFeeUsd": 2200.89841464,
+      "avgFeeUsd": 0.002736601924338976,
+      "txCount": 804245
+    },
+    {
+      "date": "2026-06-17",
+      "totalFeeUsd": 2113.26293322,
+      "avgFeeUsd": 0.0025671692653682996,
+      "txCount": 823188
+    },
+    {
+      "date": "2026-06-18",
+      "totalFeeUsd": 1943.92152611,
+      "avgFeeUsd": 0.0024248703017613455,
+      "txCount": 801660
+    },
+    {
+      "date": "2026-06-19",
+      "totalFeeUsd": 2128.55946258,
+      "avgFeeUsd": 0.0026192561478260226,
+      "txCount": 812658
+    },
+    {
+      "date": "2026-06-20",
+      "totalFeeUsd": 1672.5582789,
+      "avgFeeUsd": 0.002323258976218158,
+      "txCount": 719919
+    },
+    {
+      "date": "2026-06-21",
+      "totalFeeUsd": 1686.38284072,
+      "avgFeeUsd": 0.0023344105369586463,
+      "txCount": 722402
+    },
+    {
+      "date": "2026-06-22",
+      "totalFeeUsd": 1734.91657343,
+      "avgFeeUsd": 0.002291065962670336,
+      "txCount": 757253
+    },
+    {
+      "date": "2026-06-23",
+      "totalFeeUsd": 1725.49391394,
+      "avgFeeUsd": 0.00227707113109668,
+      "txCount": 757769
+    },
+    {
+      "date": "2026-06-24",
+      "totalFeeUsd": 1743.89067789,
+      "avgFeeUsd": 0.0022701796052321545,
+      "txCount": 768173
+    },
+    {
+      "date": "2026-06-25",
+      "totalFeeUsd": 1626.81306147,
+      "avgFeeUsd": 0.0021892367358591625,
+      "txCount": 743096
+    },
+    {
+      "date": "2026-06-26",
+      "totalFeeUsd": 1549.59554061,
+      "avgFeeUsd": 0.002105051187300647,
+      "txCount": 736132
+    },
+    {
+      "date": "2026-06-27",
+      "totalFeeUsd": 1388.41461771,
+      "avgFeeUsd": 0.0019895545441010413,
+      "txCount": 697852
+    },
+    {
+      "date": "2026-06-28",
+      "totalFeeUsd": 1448.29748888,
+      "avgFeeUsd": 0.0020358756246661456,
+      "txCount": 711388
+    },
+    {
+      "date": "2026-06-29",
+      "totalFeeUsd": 1541.24166204,
+      "avgFeeUsd": 0.0019338450908488636,
+      "txCount": 796983
+    },
+    {
+      "date": "2026-06-30",
+      "totalFeeUsd": 1515.23623753,
+      "avgFeeUsd": 0.0020283228017948193,
+      "txCount": 747039
+    },
+    {
+      "date": "2026-07-01",
+      "totalFeeUsd": 1411.27465307,
+      "avgFeeUsd": 0.0019577516637234436,
+      "txCount": 720865
+    },
+    {
+      "date": "2026-07-02",
+      "totalFeeUsd": 1557.39868206,
+      "avgFeeUsd": 0.002082442937431723,
+      "txCount": 747871
+    },
+    {
+      "date": "2026-07-03",
+      "totalFeeUsd": 1548.61008108,
+      "avgFeeUsd": 0.0020954148803526704,
+      "txCount": 739047
+    },
+    {
+      "date": "2026-07-04",
+      "totalFeeUsd": 1662.17954281,
+      "avgFeeUsd": 0.0022051928443914946,
+      "txCount": 753757
+    },
+    {
+      "date": "2026-07-05",
+      "totalFeeUsd": 1518.71693324,
+      "avgFeeUsd": 0.0020579712578865208,
+      "txCount": 737968
+    },
+    {
+      "date": "2026-07-06",
+      "totalFeeUsd": 1707.47215326,
+      "avgFeeUsd": 0.0021433018725295137,
+      "txCount": 796655
+    },
+    {
+      "date": "2026-07-07",
+      "totalFeeUsd": 1816.39221644,
+      "avgFeeUsd": 0.0022169103192711164,
+      "txCount": 819335
+    },
+    {
+      "date": "2026-07-08",
+      "totalFeeUsd": 1775.05018885,
+      "avgFeeUsd": 0.002031658861330327,
+      "txCount": 873695
+    },
+    {
+      "date": "2026-07-09",
+      "totalFeeUsd": 1630.44385884,
+      "avgFeeUsd": 0.001980109397178323,
+      "txCount": 823411
+    },
+    {
+      "date": "2026-07-10",
+      "totalFeeUsd": 1536.99080354,
+      "avgFeeUsd": 0.001993927117493215,
+      "txCount": 770836
+    },
+    {
+      "date": "2026-07-11",
+      "totalFeeUsd": 1408.73227364,
+      "avgFeeUsd": 0.001968941382658003,
+      "txCount": 715477
+    },
+    {
+      "date": "2026-07-12",
+      "totalFeeUsd": 1318.14446525,
+      "avgFeeUsd": 0.001899135635362698,
+      "txCount": 694076
+    },
+    {
+      "date": "2026-07-13",
+      "totalFeeUsd": 1481.42168356,
+      "avgFeeUsd": 0.001863601656963433,
+      "txCount": 794924
+    },
+    {
+      "date": "2026-07-14",
+      "totalFeeUsd": 1464.9761324,
+      "avgFeeUsd": 0.0019330253624976416,
+      "txCount": 757867
+    },
+    {
+      "date": "2026-07-15",
+      "totalFeeUsd": 1490.67013085,
+      "avgFeeUsd": 0.002055872712973345,
+      "txCount": 725079
+    },
+    {
+      "date": "2026-07-16",
+      "totalFeeUsd": 1571.12877127,
+      "avgFeeUsd": 0.0021672325994452008,
+      "txCount": 724947
+    },
+    {
+      "date": "2026-07-17",
+      "totalFeeUsd": 1599.16667003,
+      "avgFeeUsd": 0.0022463266344291285,
+      "txCount": 711903
+    },
+    {
+      "date": "2026-07-18",
+      "totalFeeUsd": 1312.11986594,
+      "avgFeeUsd": 0.0019509973651154284,
+      "txCount": 672538
+    },
+    {
+      "date": "2026-07-19",
+      "totalFeeUsd": 1254.67456771,
+      "avgFeeUsd": 0.0018888419038894644,
+      "txCount": 664256
+    },
+    {
+      "date": "2026-07-20",
+      "totalFeeUsd": 1462.17193513,
+      "avgFeeUsd": 0.001936682351414857,
+      "txCount": 754988
+    },
+    {
+      "date": "2026-07-21",
+      "totalFeeUsd": 1621.37098328,
+      "avgFeeUsd": 0.0021974143709731194,
+      "txCount": 737854
+    },
+    {
+      "date": "2026-07-22",
+      "totalFeeUsd": 1746.00246355,
+      "avgFeeUsd": 0.0024299003457662594,
+      "txCount": 718549
+    },
+    {
+      "date": "2026-07-23",
+      "totalFeeUsd": 1532.05295678,
+      "avgFeeUsd": 0.0020902671639929818,
+      "txCount": 732946
+    },
+    {
+      "date": "2026-07-24",
+      "totalFeeUsd": 1563.31054623,
+      "avgFeeUsd": 0.0021937782973178916,
+      "txCount": 712611
+    },
+    {
+      "date": "2026-07-25",
+      "totalFeeUsd": 1502.63920056,
+      "avgFeeUsd": 0.0020899102507520896,
+      "txCount": 718997
+    },
+    {
+      "date": "2026-07-26",
+      "totalFeeUsd": 1421.9789206,
+      "avgFeeUsd": 0.0020117294913729196,
+      "txCount": 706844
+    },
+    {
+      "date": "2026-07-27",
+      "totalFeeUsd": 1506.60666595,
+      "avgFeeUsd": 0.0021584097034169653,
+      "txCount": 698017
+    },
+    {
+      "date": "2026-07-28",
+      "totalFeeUsd": 1385.23576062,
+      "avgFeeUsd": 0.0019698889521832185,
+      "txCount": 703205
+    },
+    {
+      "date": "2026-07-29",
+      "totalFeeUsd": 1377.64418115,
+      "avgFeeUsd": 0.001954094134430443,
+      "txCount": 705004
+    },
+    {
+      "date": "2026-07-30",
+      "totalFeeUsd": 1394.18983696,
+      "avgFeeUsd": 0.0019013140149766051,
+      "txCount": 733277
+    },
+    {
+      "date": "2026-07-31",
+      "totalFeeUsd": 1451.6519012,
+      "avgFeeUsd": 0.0020499909637550382,
+      "txCount": 708126
+    },
+    {
+      "date": "2026-08-01",
+      "totalFeeUsd": 1331.97797892,
+      "avgFeeUsd": 0.001953639856848046,
+      "txCount": 681793
+    },
+    {
+      "date": "2026-08-02",
+      "totalFeeUsd": 1269.43738838,
+      "avgFeeUsd": 0.001891498176771048,
+      "txCount": 671128
+    },
+    {
+      "date": "2026-08-03",
+      "totalFeeUsd": 1399.64589517,
+      "avgFeeUsd": 0.0020263226478142026,
+      "txCount": 690732
+    },
+    {
+      "date": "2026-08-04",
+      "totalFeeUsd": 1460.25785721,
+      "avgFeeUsd": 0.0020962133528323315,
+      "txCount": 696617
+    },
+    {
+      "date": "2026-08-05",
+      "totalFeeUsd": 1525.48335511,
+      "avgFeeUsd": 0.0022713861117257214,
+      "txCount": 671609
+    },
+    {
+      "date": "2026-08-06",
+      "totalFeeUsd": 1365.10470551,
+      "avgFeeUsd": 0.0020213561822990164,
+      "txCount": 675341
+    },
+    {
+      "date": "2026-08-07",
+      "totalFeeUsd": 1308.48097498,
+      "avgFeeUsd": 0.001994365055625075,
+      "txCount": 656089
+    },
+    {
+      "date": "2026-08-08",
+      "totalFeeUsd": 1281.88477845,
+      "avgFeeUsd": 0.00195339288280875,
+      "txCount": 656235
+    },
+    {
+      "date": "2026-08-09",
+      "totalFeeUsd": 1224.28201015,
+      "avgFeeUsd": 0.0019193765503547832,
+      "txCount": 637854
+    },
+    {
+      "date": "2026-08-10",
+      "totalFeeUsd": 1299.19484686,
+      "avgFeeUsd": 0.00193327388084843,
+      "txCount": 672018
+    },
+    {
+      "date": "2026-08-11",
+      "totalFeeUsd": 1289.34033298,
+      "avgFeeUsd": 0.0019530902380050716,
+      "txCount": 660154
+    },
+    {
+      "date": "2026-08-12",
+      "totalFeeUsd": 1336.34212803,
+      "avgFeeUsd": 0.0019497088266370588,
+      "txCount": 685406
+    },
+    {
+      "date": "2026-08-13",
+      "totalFeeUsd": 1292.78713337,
+      "avgFeeUsd": 0.0019446139514353103,
+      "txCount": 664804
+    },
+    {
+      "date": "2026-08-14",
+      "totalFeeUsd": 1284.98526424,
+      "avgFeeUsd": 0.002008630589434326,
+      "txCount": 639732
+    },
+    {
+      "date": "2026-08-15",
+      "totalFeeUsd": 1131.43554154,
+      "avgFeeUsd": 0.0019349609848255528,
+      "txCount": 584733
+    },
+    {
+      "date": "2026-08-16",
+      "totalFeeUsd": 1177.88201136,
+      "avgFeeUsd": 0.001914785168779698,
+      "txCount": 615151
+    },
+    {
+      "date": "2026-08-17",
+      "totalFeeUsd": 1327.68229573,
+      "avgFeeUsd": 0.00198383607878969,
+      "txCount": 669250
+    },
+    {
+      "date": "2026-08-18",
+      "totalFeeUsd": 1389.36122203,
+      "avgFeeUsd": 0.002061874619015959,
+      "txCount": 673834
+    },
+    {
+      "date": "2026-08-19",
+      "totalFeeUsd": 1454.57109725,
+      "avgFeeUsd": 0.001983325739364603,
+      "txCount": 733400
+    },
+    {
+      "date": "2026-08-20",
+      "totalFeeUsd": 1723.46186902,
+      "avgFeeUsd": 0.002271308227391516,
+      "txCount": 758797
+    },
+    {
+      "date": "2026-08-21",
+      "totalFeeUsd": 1908.53475136,
+      "avgFeeUsd": 0.0024279234112688708,
+      "txCount": 786077
+    },
+    {
+      "date": "2026-08-22",
+      "totalFeeUsd": 2046.73260555,
+      "avgFeeUsd": 0.002543469693153109,
+      "txCount": 804701
+    },
+    {
+      "date": "2026-08-23",
+      "totalFeeUsd": 1742.70598087,
+      "avgFeeUsd": 0.0023996777594684844,
+      "txCount": 726225
+    },
+    {
+      "date": "2026-08-24",
+      "totalFeeUsd": 2056.44669247,
+      "avgFeeUsd": 0.0025523188569559784,
+      "txCount": 805717
+    },
+    {
+      "date": "2026-08-25",
+      "totalFeeUsd": 1783.67102994,
+      "avgFeeUsd": 0.002478808159812554,
+      "txCount": 719568
+    },
+    {
+      "date": "2026-08-26",
+      "totalFeeUsd": 1553.38407432,
+      "avgFeeUsd": 0.0023703302448633925,
+      "txCount": 655345
+    },
+    {
+      "date": "2026-08-27",
+      "totalFeeUsd": 1613.18590704,
+      "avgFeeUsd": 0.0023679306510251534,
+      "txCount": 681264
+    },
+    {
+      "date": "2026-08-28",
+      "totalFeeUsd": 1702.17749247,
+      "avgFeeUsd": 0.0025991847358407304,
+      "txCount": 654889
+    },
+    {
+      "date": "2026-08-29",
+      "totalFeeUsd": 1318.62659895,
+      "avgFeeUsd": 0.0022193832759395495,
+      "txCount": 594141
+    },
+    {
+      "date": "2026-08-30",
+      "totalFeeUsd": 1412.29525883,
+      "avgFeeUsd": 0.0022636854757393907,
+      "txCount": 623892
+    },
+    {
+      "date": "2026-08-31",
+      "totalFeeUsd": 1565.40414069,
+      "avgFeeUsd": 0.00228565191527604,
+      "txCount": 684883
+    },
+    {
+      "date": "2026-09-01",
+      "totalFeeUsd": 1637.52927264,
+      "avgFeeUsd": 0.0024421453399330975,
+      "txCount": 670529
+    },
+    {
+      "date": "2026-09-02",
+      "totalFeeUsd": 1595.96696865,
+      "avgFeeUsd": 0.002419517494337666,
+      "txCount": 659622
+    },
+    {
+      "date": "2026-09-03",
+      "totalFeeUsd": 1912.44553265,
+      "avgFeeUsd": 0.002717707784660465,
+      "txCount": 703698
+    },
+    {
+      "date": "2026-09-04",
+      "totalFeeUsd": 2032.45444929,
+      "avgFeeUsd": 0.00276350332958966,
+      "txCount": 735463
+    },
+    {
+      "date": "2026-09-05",
+      "totalFeeUsd": 1861.31254155,
+      "avgFeeUsd": 0.0027609277021695086,
+      "txCount": 674162
+    },
+    {
+      "date": "2026-09-06",
+      "totalFeeUsd": 2073.31563463,
+      "avgFeeUsd": 0.002716708205529029,
+      "txCount": 763172
+    },
+    {
+      "date": "2026-09-07",
+      "totalFeeUsd": 2227.28303364,
+      "avgFeeUsd": 0.0029854580073561347,
+      "txCount": 746044
+    },
+    {
+      "date": "2026-09-08",
+      "totalFeeUsd": 1991.89155399,
+      "avgFeeUsd": 0.0028283709485356135,
+      "txCount": 704254
+    },
+    {
+      "date": "2026-09-09",
+      "totalFeeUsd": 2153.31930033,
+      "avgFeeUsd": 0.002786238437569953,
+      "txCount": 772841
+    },
+    {
+      "date": "2026-09-10",
+      "totalFeeUsd": 2122.03355983,
+      "avgFeeUsd": 0.002911937326864598,
+      "txCount": 728736
+    },
+    {
+      "date": "2026-09-11",
+      "totalFeeUsd": 2455.1934818,
+      "avgFeeUsd": 0.0029001248335069727,
+      "txCount": 846582
+    },
+    {
+      "date": "2026-09-12",
+      "totalFeeUsd": 1789.16778976,
+      "avgFeeUsd": 0.002744248646041996,
+      "txCount": 651970
+    },
+    {
+      "date": "2026-09-13",
+      "totalFeeUsd": 1725.55796866,
+      "avgFeeUsd": 0.0027545154955806316,
+      "txCount": 626447
+    },
+    {
+      "date": "2026-09-14",
+      "totalFeeUsd": 1947.57782713,
+      "avgFeeUsd": 0.0027562663842768185,
+      "txCount": 706600
+    },
+    {
+      "date": "2026-09-15",
+      "totalFeeUsd": 2122.58535921,
+      "avgFeeUsd": 0.0030039546717718873,
+      "txCount": 706597
+    },
+    {
+      "date": "2026-09-16",
+      "totalFeeUsd": 2066.68348251,
+      "avgFeeUsd": 0.0026595196721482355,
+      "txCount": 777089
+    },
+    {
+      "date": "2026-09-17",
+      "totalFeeUsd": 2660.48688657,
+      "avgFeeUsd": 0.0031660627891121652,
+      "txCount": 840314
+    },
+    {
+      "date": "2026-09-18",
+      "totalFeeUsd": 3929.3860072,
+      "avgFeeUsd": 0.004036813693203533,
+      "txCount": 973388
+    },
+    {
+      "date": "2026-09-19",
+      "totalFeeUsd": 3675.97481885,
+      "avgFeeUsd": 0.00437939290768186,
+      "txCount": 839380
+    },
+    {
+      "date": "2026-09-20",
+      "totalFeeUsd": 3744.33794743,
+      "avgFeeUsd": 0.004425863370220079,
+      "txCount": 846013
+    },
+    {
+      "date": "2026-09-21",
+      "totalFeeUsd": 4996.03317746,
+      "avgFeeUsd": 0.0057312164270760324,
+      "txCount": 871723
+    },
+    {
+      "date": "2026-09-22",
+      "totalFeeUsd": 5380.49907019,
+      "avgFeeUsd": 0.005535726373427274,
+      "txCount": 971959
+    },
+    {
+      "date": "2026-09-23",
+      "totalFeeUsd": 5347.43139932,
+      "avgFeeUsd": 0.006147235977937491,
+      "txCount": 869892
+    },
+    {
+      "date": "2026-09-24",
+      "totalFeeUsd": 4705.71996769,
+      "avgFeeUsd": 0.006348006339871926,
+      "txCount": 741291
+    },
+    {
+      "date": "2026-09-25",
+      "totalFeeUsd": 5603.42924354,
+      "avgFeeUsd": 0.007831826736783844,
+      "txCount": 715469
+    },
+    {
+      "date": "2026-09-26",
+      "totalFeeUsd": 4821.7264126,
+      "avgFeeUsd": 0.007994333702952699,
+      "txCount": 603143
+    },
+    {
+      "date": "2026-09-27",
+      "totalFeeUsd": 7815.56987308,
+      "avgFeeUsd": 0.006420893924609496,
+      "txCount": 1217209
+    },
+    {
+      "date": "2026-09-28",
+      "totalFeeUsd": 8763.91299378,
+      "avgFeeUsd": 0.007757096205924449,
+      "txCount": 1129793
+    },
+    {
+      "date": "2026-09-29",
+      "totalFeeUsd": 7194.24791269,
+      "avgFeeUsd": 0.0072843775156916524,
+      "txCount": 987627
+    },
+    {
+      "date": "2026-09-30",
+      "totalFeeUsd": 10877.55520725,
+      "avgFeeUsd": 0.011778288004073517,
+      "txCount": 923526
+    },
+    {
+      "date": "2026-10-01",
+      "totalFeeUsd": 15850.55568703,
+      "avgFeeUsd": 0.013765233008158111,
+      "txCount": 1151492
+    },
+    {
+      "date": "2026-10-02",
+      "totalFeeUsd": 4768.55618513,
+      "avgFeeUsd": 0.005493563770129006,
+      "txCount": 868026
+    },
+    {
+      "date": "2026-10-03",
+      "totalFeeUsd": 3569.71279699,
+      "avgFeeUsd": 0.005170214844765207,
+      "txCount": 690438
+    },
+    {
+      "date": "2026-10-04",
+      "totalFeeUsd": 4327.52070936,
+      "avgFeeUsd": 0.005155185787551374,
+      "txCount": 839450
+    },
+    {
+      "date": "2026-10-05",
+      "totalFeeUsd": 4608.68970699,
+      "avgFeeUsd": 0.005323773661418005,
+      "txCount": 865681
+    },
+    {
+      "date": "2026-10-06",
+      "totalFeeUsd": 5215.0181934,
+      "avgFeeUsd": 0.005732269534879887,
+      "txCount": 909765
+    },
+    {
+      "date": "2026-10-07",
+      "totalFeeUsd": 5198.53242889,
+      "avgFeeUsd": 0.005353417504119176,
+      "txCount": 971068
+    },
+    {
+      "date": "2026-10-08",
+      "totalFeeUsd": 7959.26696019,
+      "avgFeeUsd": 0.007842801359994088,
+      "txCount": 1014850
+    },
+    {
+      "date": "2026-10-09",
+      "totalFeeUsd": 4037.59994915,
+      "avgFeeUsd": 0.005934749429910691,
+      "txCount": 680332
+    },
+    {
+      "date": "2026-10-10",
+      "totalFeeUsd": 13407.13663736,
+      "avgFeeUsd": 0.015766721041554948,
+      "txCount": 850344
+    },
+    {
+      "date": "2026-10-11",
+      "totalFeeUsd": 21777.76354918,
+      "avgFeeUsd": 0.01962696249151033,
+      "txCount": 1109584
+    },
+    {
+      "date": "2026-10-12",
+      "totalFeeUsd": 6764.82608727,
+      "avgFeeUsd": 0.009492880629773751,
+      "txCount": 712621
+    },
+    {
+      "date": "2026-10-13",
+      "totalFeeUsd": 6144.09338762,
+      "avgFeeUsd": 0.00840443166663475,
+      "txCount": 731054
+    },
+    {
+      "date": "2026-10-14",
+      "totalFeeUsd": 5771.8472202,
+      "avgFeeUsd": 0.007517266232098483,
+      "txCount": 767812
+    },
+    {
+      "date": "2026-10-15",
+      "totalFeeUsd": 24005.17679668,
+      "avgFeeUsd": 0.02632204302361894,
+      "txCount": 911980
+    },
+    {
+      "date": "2026-10-16",
+      "totalFeeUsd": 4957.80191543,
+      "avgFeeUsd": 0.007529767028736671,
+      "txCount": 658427
+    },
+    {
+      "date": "2026-10-17",
+      "totalFeeUsd": 4225.7904372,
+      "avgFeeUsd": 0.007574417841811211,
+      "txCount": 557903
+    },
+    {
+      "date": "2026-10-18",
+      "totalFeeUsd": 3671.5240278,
+      "avgFeeUsd": 0.006444266242726882,
+      "txCount": 569735
+    },
+    {
+      "date": "2026-10-19",
+      "totalFeeUsd": 4071.07116393,
+      "avgFeeUsd": 0.006706661840782578,
+      "txCount": 607019
+    },
+    {
+      "date": "2026-10-20",
+      "totalFeeUsd": 4145.312558,
+      "avgFeeUsd": 0.006707734037767601,
+      "txCount": 617990
+    },
+    {
+      "date": "2026-10-21",
+      "totalFeeUsd": 4968.24457293,
+      "avgFeeUsd": 0.007541538004763321,
+      "txCount": 658784
+    },
+    {
+      "date": "2026-10-22",
+      "totalFeeUsd": 4177.3309782,
+      "avgFeeUsd": 0.007633076685055009,
+      "txCount": 547267
+    },
+    {
+      "date": "2026-10-23",
+      "totalFeeUsd": 4000.16776598,
+      "avgFeeUsd": 0.0065658755654294885,
+      "txCount": 609236
+    },
+    {
+      "date": "2026-10-24",
+      "totalFeeUsd": 3593.04828338,
+      "avgFeeUsd": 0.005654443523018768,
+      "txCount": 635438
+    },
+    {
+      "date": "2026-10-25",
+      "totalFeeUsd": 3052.89888348,
+      "avgFeeUsd": 0.005548203332085416,
+      "txCount": 550250
+    },
+    {
+      "date": "2026-10-26",
+      "totalFeeUsd": 3395.72517169,
+      "avgFeeUsd": 0.005917949204846279,
+      "txCount": 573801
+    },
+    {
+      "date": "2026-10-27",
+      "totalFeeUsd": 3839.74773049,
+      "avgFeeUsd": 0.006353831960699629,
+      "txCount": 604320
+    },
+    {
+      "date": "2026-10-28",
+      "totalFeeUsd": 3767.98656884,
+      "avgFeeUsd": 0.007244790517212207,
+      "txCount": 520096
+    },
+    {
+      "date": "2026-10-29",
+      "totalFeeUsd": 4061.80154697,
+      "avgFeeUsd": 0.0062575608909063735,
+      "txCount": 649103
+    },
+    {
+      "date": "2026-10-30",
+      "totalFeeUsd": 3828.75617344,
+      "avgFeeUsd": 0.005537525922651934,
+      "txCount": 691420
+    },
+    {
+      "date": "2026-10-31",
+      "totalFeeUsd": 3044.08594808,
+      "avgFeeUsd": 0.006056086748566097,
+      "txCount": 502649
+    },
+    {
+      "date": "2026-11-01",
+      "totalFeeUsd": 3132.87724798,
+      "avgFeeUsd": 0.0061507961165418335,
+      "txCount": 509345
+    },
+    {
+      "date": "2026-11-02",
+      "totalFeeUsd": 3329.94514283,
+      "avgFeeUsd": 0.006374833242393148,
+      "txCount": 522358
+    },
+    {
+      "date": "2026-11-03",
+      "totalFeeUsd": 2835.72763669,
+      "avgFeeUsd": 0.004748459259447176,
+      "txCount": 597189
+    },
+    {
+      "date": "2026-11-04",
+      "totalFeeUsd": 3426.33704456,
+      "avgFeeUsd": 0.004848430067724179,
+      "txCount": 706690
+    },
+    {
+      "date": "2026-11-05",
+      "totalFeeUsd": 3917.1870482,
+      "avgFeeUsd": 0.004615003225988874,
+      "txCount": 848794
+    },
+    {
+      "date": "2026-11-06",
+      "totalFeeUsd": 3146.07937803,
+      "avgFeeUsd": 0.004384877402185972,
+      "txCount": 717484
+    },
+    {
+      "date": "2026-11-07",
+      "totalFeeUsd": 2727.12121061,
+      "avgFeeUsd": 0.003996180147780292,
+      "txCount": 682432
+    },
+    {
+      "date": "2026-11-08",
+      "totalFeeUsd": 2552.70803758,
+      "avgFeeUsd": 0.00418817273976873,
+      "txCount": 609504
+    },
+    {
+      "date": "2026-11-09",
+      "totalFeeUsd": 3304.98885884,
+      "avgFeeUsd": 0.003691479365443169,
+      "txCount": 895302
+    },
+    {
+      "date": "2026-11-10",
+      "totalFeeUsd": 3645.76304482,
+      "avgFeeUsd": 0.003756562866569466,
+      "txCount": 970505
+    },
+    {
+      "date": "2026-11-11",
+      "totalFeeUsd": 3336.83062133,
+      "avgFeeUsd": 0.003743792048363228,
+      "txCount": 891297
+    }
+  ],
+  "realKeyMetrics": {
+    "totalVolume180d": "$23.3B",
+    "volumeGrowthRate": "+23%",
+    "dailyActiveAccounts": "78K",
+    "accountGrowthRate": "-30%",
+    "uniqueContractsDaily": "64",
+    "contractGrowthRate": "+6300%",
+    "avgTxCost": "$0.0039",
+    "txCostNote": "259x cheaper than ETH",
+    "nearPrice": "$3.41",
+    "totalTxns180d": 136477102,
+    "marketCap": "$4.5B",
+    "dailyTxCount": "891K",
+    "txGrowthRate": "+23%"
+  },
+  "realStats": {
+    "id": 1,
+    "total_supply": "1311549130499504928488054401595325",
+    "circulating_supply": "1249836992159308065117756741322730",
+    "avg_block_time": "0.57690000",
+    "gas_price": "100000000",
+    "nodes_online": 371,
+    "near_price": "3.41000000",
+    "near_btc_price": "0.00004776",
+    "market_cap": "4470153468.00000000",
+    "volume": "422835669.00000000",
+    "high_24h": "3.62000000",
+    "high_all": "20.44000000",
+    "low_24h": "3.34000000",
+    "low_all": "0.52676200",
+    "change_24": "-4.39069000",
+    "total_txns": "5481290855",
+    "tps": 2
+  }
+}
