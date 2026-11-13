@@ -4,10 +4,20 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>NEAR Investment Thesis — The AI Settlement Layer</title>
+    <title>NEAR Investment Thesis — Economic Density</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+    <script>
+      // Set theme before first paint to prevent flash
+      (function() {
+        var saved = localStorage.getItem('thesis-theme');
+        var theme = saved === 'dark' || saved === 'light' ? saved
+          : window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.classList.add(theme);
+        document.body && (document.body.className = theme);
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>

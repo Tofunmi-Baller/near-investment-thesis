@@ -29,7 +29,7 @@ export function MetricCard({ label, value, change, positive = true, delay = 0 }:
         {label}
       </span>
       <span
-        className="text-3xl md:text-4xl font-semibold block tracking-tight count-in"
+        className="text-3xl md:text-4xl font-semibold block tracking-tight"
         style={{ color: 'var(--color-ink)', fontFamily: 'var(--font-mono)' }}
       >
         {value}

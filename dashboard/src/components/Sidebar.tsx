@@ -28,7 +28,7 @@ export function Sidebar({ sections, activeSection, onNavigate, onStartTour }: Si
               NEAR Thesis
             </p>
             <p className="text-[10px]" style={{ color: 'var(--color-ink-muted)', fontFamily: 'var(--font-mono)' }}>
-              AI Settlement Layer
+              Economic Density
             </p>
           </div>
         </div>

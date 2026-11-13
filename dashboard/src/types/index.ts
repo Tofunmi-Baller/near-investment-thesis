@@ -11,6 +11,4 @@ export interface ChainComparison {
   dailyActiveAccounts: number
   avgTxFee: number
   tps: number
-  aiContracts: number
-  intentVolume: number
 }

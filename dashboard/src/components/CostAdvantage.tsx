@@ -1,10 +1,9 @@
 import { motion } from 'framer-motion'
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell } from 'recharts'
-import { useTheme } from '../ThemeContext'
-import { feeData } from '../data/metrics'
+import { useTheme, THEME_COLORS } from '../ThemeContext'
+import { avgFeeLast30 } from '../data/metrics'
 
-const realAvgFee = feeData.slice(-30).reduce((s, d) => s + d.avgFeeUsd, 0) / 30
-const nearCostPer1K = Math.round(realAvgFee * 1000 * 100) / 100
+const nearCostPer1K = Math.round(avgFeeLast30 * 1000 * 100) / 100
 
 const agentCosts = [
   { chain: 'NEAR', costPer1000Tx: nearCostPer1K, color: '#0052D4', highlight: true },
@@ -15,16 +14,15 @@ const agentCosts = [
 ]
 
 const breakdownData = [
-  { operation: 'Token transfer', near: Math.round(realAvgFee * 0.5 * 10000) / 10000, solana: 0.001, base: 0.005, ethereum: 1.2 },
-  { operation: 'Contract call', near: Math.round(realAvgFee * 10000) / 10000, solana: 0.003, base: 0.01, ethereum: 2.5 },
+  { operation: 'Token transfer', near: Math.round(avgFeeLast30 * 0.5 * 10000) / 10000, solana: 0.001, base: 0.005, ethereum: 1.2 },
+  { operation: 'Contract call', near: Math.round(avgFeeLast30 * 10000) / 10000, solana: 0.003, base: 0.01, ethereum: 2.5 },
   { operation: 'Account creation', near: 0.05, solana: 0.002, base: 0.01, ethereum: 3.0 },
   { operation: 'Storage staking', near: 0.01, solana: 0.002, base: 0.005, ethereum: 0.0 },
 ]
 
 export function CostAdvantage() {
   const { theme } = useTheme()
-  const accent = theme === 'light' ? '#0052D4' : '#5B9DF5'
-  const gridColor = theme === 'light' ? 'rgba(0,0,0,0.05)' : 'rgba(255,255,255,0.04)'
+  const { accent, grid: gridColor } = THEME_COLORS[theme]
 
   return (
     <motion.div

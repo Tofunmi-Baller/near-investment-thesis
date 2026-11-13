@@ -43,22 +43,28 @@ export const feeData = raw.realFeeData
 
 // ─── COMPUTED METRICS (from real data, 30-day averages) ──────────────────
 
-function avg30(data: { date: string }[], getter: (d: any) => number, position: 'first' | 'last'): number {
-  const slice = position === 'first' ? data.slice(0, 30) : data.slice(-30)
-  const values = slice.map(getter).filter(v => !isNaN(v))
-  return values.reduce((a, b) => a + b, 0) / values.length
+const ngFirst30 = networkGrowth.slice(0, 30)
+const ngLast30 = networkGrowth.slice(-30)
+const tvFirst30 = txVolumeData.slice(0, 30)
+const tvLast30 = txVolumeData.slice(-30)
+const feeLast30 = feeData.slice(-30)
+
+function avgOf<T>(slice: T[], getter: (d: T) => number): number {
+  const vals = slice.map(getter).filter(v => !isNaN(v))
+  return vals.reduce((a, b) => a + b, 0) / vals.length
 }
 
-const daaFirst30 = avg30(networkGrowth, d => d.dailyActiveAccounts, 'first')
-const daaLast30 = avg30(networkGrowth, d => d.dailyActiveAccounts, 'last')
-const txFirst30 = avg30(networkGrowth, d => d.txCount, 'first')
-const txLast30 = avg30(networkGrowth, d => d.txCount, 'last')
-const volFirst30 = avg30(txVolumeData, d => d.volumeUsd, 'first')
-const volLast30 = avg30(txVolumeData, d => d.volumeUsd, 'last')
-const txPerAccFirst30 = avg30(txVolumeData, d => d.txPerAccount, 'first')
-const txPerAccLast30 = avg30(txVolumeData, d => d.txPerAccount, 'last')
-const usdPerTxFirst30 = avg30(txVolumeData, d => d.usdPerTx, 'first')
-const usdPerTxLast30 = avg30(txVolumeData, d => d.usdPerTx, 'last')
+const daaFirst30 = avgOf(ngFirst30, d => d.dailyActiveAccounts)
+const daaLast30 = avgOf(ngLast30, d => d.dailyActiveAccounts)
+const txFirst30 = avgOf(ngFirst30, d => d.txCount)
+const txLast30 = avgOf(ngLast30, d => d.txCount)
+const volFirst30 = avgOf(tvFirst30, d => d.volumeUsd)
+const volLast30 = avgOf(tvLast30, d => d.volumeUsd)
+const txPerAccFirst30 = avgOf(tvFirst30, d => d.txPerAccount)
+const txPerAccLast30 = avgOf(tvLast30, d => d.txPerAccount)
+const usdPerTxFirst30 = avgOf(tvFirst30, d => d.usdPerTx)
+const usdPerTxLast30 = avgOf(tvLast30, d => d.usdPerTx)
+export const avgFeeLast30 = feeLast30.reduce((s, d) => s + d.avgFeeUsd, 0) / feeLast30.length
 
 function fmtPct(from: number, to: number): string {
   const pct = ((to - from) / from) * 100
@@ -86,7 +92,7 @@ export const keyMetrics = {
   usdPerTxChange: fmtPct(usdPerTxFirst30, usdPerTxLast30),
   usdPerTxPositive: usdPerTxLast30 >= usdPerTxFirst30,
 
-  avgFee: `$${(feeData.slice(-30).reduce((s, d) => s + d.avgFeeUsd, 0) / 30).toFixed(4)}`,
+  avgFee: `$${avgFeeLast30.toFixed(4)}`,
   nearPrice: `$${parseFloat(raw.realStats.near_price as string || '0').toFixed(2)}`,
   marketCap: `$${(parseFloat(raw.realStats.market_cap as string || '0') / 1e9).toFixed(1)}B`,
 }
@@ -126,11 +132,10 @@ function avg7end(data: { dailyActiveAccounts: number }[]): number {
   return last7.reduce((s, d) => s + d.dailyActiveAccounts, 0) / last7.length
 }
 
-const daaMedianLast30 = median(networkGrowth.slice(-30).map(d => d.dailyActiveAccounts))
+const daaMedianLast30 = median(ngLast30.map(d => d.dailyActiveAccounts))
 const daa7dAvg = avg7end(networkGrowth)
-const usdPerTxMedianLast30 = median(txVolumeData.slice(-30).map(d => d.usdPerTx))
-const feeAnnualized = (feeData.slice(-30).reduce((s, d) => s + d.totalFeeUsd, 0) / 30) * 365
-const avgFeeLast30 = feeData.slice(-30).reduce((s, d) => s + d.avgFeeUsd, 0) / 30
+const usdPerTxMedianLast30 = median(tvLast30.map(d => d.usdPerTx))
+const feeAnnualized = (feeLast30.reduce((s, d) => s + d.totalFeeUsd, 0) / feeLast30.length) * 365
 
 export type ScorecardStatus = 'met' | 'in-progress' | 'not-met' | 'unmeasured'
 
@@ -173,7 +178,7 @@ export const scorecard: ScorecardRow[] = [
     now: `$${(feeAnnualized / 1e6).toFixed(2)}M annualized`,
     stabilizedBar: '$5M annualized',
     killLevel: 'Below $2M',
-    status: feeAnnualized >= 5000000 ? 'met' : feeAnnualized >= 2000000 ? 'not-met' : 'not-met',
+    status: feeAnnualized >= 5000000 ? 'met' : feeAnnualized >= 2000000 ? 'in-progress' : 'not-met',
     detail: `At $${avgFeeLast30.toFixed(4)}/tx, $10M needs ~68M tx/day (~780 TPS) vs ~${(txLast30 / 86400).toFixed(1)} TPS now.`,
   },
   {
@@ -203,18 +208,11 @@ export const scorecardSummary = (() => {
 // ─── CHAIN COMPARISON (sourced, with caveats) ────────────────────────────
 
 export const chainComparison: ChainComparison[] = [
-  {
-    chain: 'NEAR',
-    dailyActiveAccounts: Math.round(daaLast30),
-    avgTxFee: feeData.slice(-30).reduce((s, d) => s + d.avgFeeUsd, 0) / 30,
-    tps: Math.round(txLast30 / 86400),
-    aiContracts: 0,
-    intentVolume: 0,
-  },
-  { chain: 'Solana', dailyActiveAccounts: 1800000, avgTxFee: 0.003, tps: 4000, aiContracts: 0, intentVolume: 0 },
-  { chain: 'Ethereum', dailyActiveAccounts: 500000, avgTxFee: 2.50, tps: 30, aiContracts: 0, intentVolume: 0 },
-  { chain: 'Base', dailyActiveAccounts: 850000, avgTxFee: 0.01, tps: 80, aiContracts: 0, intentVolume: 0 },
-  { chain: 'Avalanche', dailyActiveAccounts: 95000, avgTxFee: 0.02, tps: 200, aiContracts: 0, intentVolume: 0 },
+  { chain: 'NEAR', dailyActiveAccounts: Math.round(daaLast30), avgTxFee: avgFeeLast30, tps: Math.round(txLast30 / 86400) },
+  { chain: 'Solana', dailyActiveAccounts: 1800000, avgTxFee: 0.003, tps: 4000 },
+  { chain: 'Ethereum', dailyActiveAccounts: 500000, avgTxFee: 2.50, tps: 30 },
+  { chain: 'Base', dailyActiveAccounts: 850000, avgTxFee: 0.01, tps: 80 },
+  { chain: 'Avalanche', dailyActiveAccounts: 95000, avgTxFee: 0.02, tps: 200 },
 ]
 
 // ─── QUERIES / SOURCES ───────────────────────────────────────────────────

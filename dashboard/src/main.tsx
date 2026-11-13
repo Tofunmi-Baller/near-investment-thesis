@@ -4,8 +4,6 @@ import './index.css'
 import App from './App.tsx'
 import { ThemeProvider } from './ThemeContext.tsx'
 
-document.body.className = 'light'
-
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <ThemeProvider>

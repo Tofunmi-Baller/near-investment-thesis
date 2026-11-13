@@ -13,7 +13,7 @@ import { CostAdvantage } from './components/CostAdvantage'
 import { Scorecard } from './components/Scorecard'
 import { Tour } from './components/Tour'
 import { WelcomeOverlay } from './components/WelcomeOverlay'
-import { useTheme } from './ThemeContext'
+import { useTheme, THEME_COLORS } from './ThemeContext'
 import {
   networkGrowth, txVolumeData, economicDensity,
   chainComparison, keyMetrics, queries, scorecardSummary,
@@ -63,14 +63,20 @@ function ChartTooltip({ active, payload, label }: any) {
 
 const chartMargin = { top: 8, right: 16, left: 0, bottom: 0 }
 
-// 7-day rolling average
-function rolling7(data: any[], key: string) {
+
+function rolling7<T extends Record<string, any>>(data: T[], key: string): (T & Record<string, number>)[] {
   return data.map((d, i) => {
-    const window = data.slice(Math.max(0, i - 6), i + 1)
-    const avg = window.reduce((s: number, w: any) => s + (w[key] || 0), 0) / window.length
-    return { ...d, [`${key}_7d`]: Math.round(avg) }
+    const start = Math.max(0, i - 6)
+    let sum = 0
+    for (let j = start; j <= i; j++) sum += (data[j][key] || 0)
+    return { ...d, [`${key}_7d`]: Math.round(sum / (i - start + 1)) }
   })
 }
+
+const smoothedNetwork = rolling7(networkGrowth, 'dailyActiveAccounts')
+const smoothedVolume = rolling7(txVolumeData, 'volumeUsd')
+const sampledNetworkGrowth = networkGrowth.filter((_, i) => i % 3 === 0)
+const sampledTxVolume = txVolumeData.filter((_, i) => i % 2 === 0)
 
 export default function App() {
   const { theme } = useTheme()
@@ -78,16 +84,7 @@ export default function App() {
   const [runTour, setRunTour] = useState(false)
   const [showWelcome, setShowWelcome] = useState(false)
 
-  const accent = theme === 'light' ? '#0052D4' : '#5B9DF5'
-  const green = theme === 'light' ? '#0A8754' : '#4ADE80'
-  const purple = theme === 'light' ? '#6B4CE6' : '#A78BFA'
-  const red = theme === 'light' ? '#C62828' : '#F87171'
-  const yellow = theme === 'light' ? '#D4A017' : '#FFBD12'
-  const grid = theme === 'light' ? 'rgba(0,0,0,0.05)' : 'rgba(255,255,255,0.04)'
-  const axis = theme === 'light' ? '#aaa' : '#555'
-
-  const smoothedNetwork = rolling7(networkGrowth, 'dailyActiveAccounts')
-  const smoothedVolume = rolling7(txVolumeData, 'volumeUsd')
+  const { accent, green, purple, red, yellow, grid, axis } = THEME_COLORS[theme]
 
   useEffect(() => {
     const visited = localStorage.getItem('thesis-toured')
@@ -223,7 +220,7 @@ export default function App() {
               query={queries.networkGrowth}
               insight="New accounts declining in line with DAA. Contract activity rising ~4x suggests builder retention despite user churn.">
               <ResponsiveContainer width="100%" height={280}>
-                <BarChart data={networkGrowth.filter((_, i) => i % 3 === 0)} margin={chartMargin}>
+                <BarChart data={sampledNetworkGrowth} margin={chartMargin}>
                   <CartesianGrid strokeDasharray="3 3" stroke={grid} />
                   <XAxis dataKey="date" tickFormatter={formatDate} tick={{ fontSize: 10, fill: axis }} />
                   <YAxis tickFormatter={formatK} tick={{ fontSize: 10, fill: axis }} />
@@ -244,7 +241,7 @@ export default function App() {
             <ChartCard title="Daily Transfer Volume (USD, 7-day avg)"
               description="Total USD value of on-chain transfers per day."
               query={queries.txVolume}
-              insight={`30-day avg volume: $${(txVolumeData.slice(-30).reduce((s, d) => s + d.volumeUsd, 0) / 30 / 1e6).toFixed(0)}M/day, up 56% from the first 30 days of this window.`}>
+              insight={`30-day avg volume: ${keyMetrics.volumePerDay}/day, ${keyMetrics.volumeChange} from the first 30 days of this window.`}>
               <ResponsiveContainer width="100%" height={280}>
                 <AreaChart data={smoothedVolume} margin={chartMargin}>
                   <CartesianGrid strokeDasharray="3 3" stroke={grid} />
@@ -262,7 +259,7 @@ export default function App() {
               query={queries.txVolume}
               insight={`USD/tx doubled from ~$142 to ~$287. Fewer casual transactions, more economically significant ones.`}>
               <ResponsiveContainer width="100%" height={280}>
-                <AreaChart data={txVolumeData.filter((_, i) => i % 2 === 0)} margin={chartMargin}>
+                <AreaChart data={sampledTxVolume} margin={chartMargin}>
                   <CartesianGrid strokeDasharray="3 3" stroke={grid} />
                   <XAxis dataKey="date" tickFormatter={formatDate} tick={{ fontSize: 10, fill: axis }} />
                   <YAxis tickFormatter={(v) => `$${v}`} tick={{ fontSize: 10, fill: axis }} />
